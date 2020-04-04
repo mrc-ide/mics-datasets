@@ -1,0 +1,363 @@
+round,region,country,year,status,reports,datasets
+MICS6,Europe and Central Asia,Azerbaijan,2021,Survey design,,
+MICS6,Europe and Central Asia,Kazakhstan,2021,Survey design,,
+MICS6,West and Central Africa,Benin,2020,Survey design,,
+MICS6,Europe and Central Asia,Bosnia and Herzegovina,2020,Survey design,,
+MICS6,Europe and Central Asia,Bosnia and Herzegovina (Roma Settlements),2020,Survey design,,
+MICS6,Latin America and Caribbean,El Salvador,2020,Survey design,,
+MICS6,Eastern and Southern Africa,Eswatini,2020,Survey design,,
+MICS6,East Asia and the Pacific,Fiji,2020,Survey design,,
+MICS6,Latin America and Caribbean,Jamaica,2020,Survey design,,
+MICS6,Middle East and North Africa,Lebanon,2020,Survey design,,
+MICS6,East Asia and the Pacific,Nauru,2020,Survey design,,
+MICS6,West and Central Africa,Nigeria,2020,Survey design,,
+MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020,Survey design,,
+MICS6,Latin America and Caribbean,Saint Lucia,2020,Survey design,,
+MICS6,Middle East and North Africa,Sudan,2020,Survey design,,
+MICS6,Latin America and Caribbean,Trinidad and Tobago,2020,Survey design,,
+MICS6,Europe and Central Asia,Uzbekistan,2020,Survey design,,
+MICS6,East Asia and the Pacific,Viet Nam,2020,Survey design,,
+MICS6,Middle East and North Africa,Yemen,2020,Survey design,,
+MICS6,Latin America and Caribbean,Argentina,2019-2020,Data collection,,
+MICS6,Latin America and Caribbean,Guyana,2019-2020,Data processing / analysis,,
+MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Data collection,,
+MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244 (Roma settlements),2019-2020,Data collection,,
+MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data collection,,
+MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,,
+MICS6,East Asia and the Pacific,Samoa,2019-2020,Data processing / analysis,,
+MICS6,Middle East and North Africa,State of Palestine,2019-2020,Data processing / analysis,,
+MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data collection,,
+MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data collection,,
+MICS6,South Asia,Bangladesh,2019,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Belarus,2019,Completed,Snapshots,Not yet available
+MICS6,West and Central Africa,Chad,2019,Data processing / analysis,,
+MICS6,Latin America and Caribbean,Cuba,2019,Data processing / analysis,,
+MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,,
+MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,,
+MICS6,South Asia,Nepal,2019,Data processing / analysis,,
+MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,,
+MICS6,West and Central Africa,Sao Tome and Principe,2019,Data processing / analysis,,
+MICS6,Europe and Central Asia,Serbia,2019,Data processing / analysis,,
+MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Data processing / analysis,,
+MICS6,East Asia and the Pacific,Thailand,2019,Data processing / analysis,,
+MICS6,East Asia and the Pacific,Tonga,2019,Data processing / analysis,,
+MICS6,Europe and Central Asia,Turkmenistan,2019,Data processing / analysis,,
+MICS6,Eastern and Southern Africa,Zimbabwe,2019,Completed,"Snapshots,Survey findings",Available
+MICS6,Middle East and North Africa,Algeria,2018-2019,Data processing / analysis,,
+MICS6,West and Central Africa,Central African Republic,2018-2019,Data processing / analysis,,
+MICS6,West and Central Africa,Guinea-Bissau,2018-2019,Data processing / analysis,,
+MICS6,East Asia and the Pacific,Kiribati,2018-2019,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,"North Macedonia, Republic of",2018-2019,Data processing / analysis,,
+MICS6,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2018-2019,Data processing / analysis,,
+MICS6,South Asia,Pakistan (Sindh),2018-2019,Data processing / analysis,,
+MICS6,Latin America and Caribbean,Costa Rica,2018,Data processing / analysis,,
+MICS6,West and Central Africa,Gambia,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Georgia,2018,Completed,Survey findings,Available
+MICS6,Middle East and North Africa,Iraq,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Kyrgyzstan,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Eastern and Southern Africa,Lesotho,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Eastern and Southern Africa,Madagascar,2018,Completed,Snapshots,Available
+MICS6,East Asia and the Pacific,Mongolia,2018,Completed,"Infographic,Survey findings",Available
+MICS6,Europe and Central Asia,Montenegro,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Montenegro (Roma Settlements),2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Latin America and Caribbean,Suriname,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,Middle East and North Africa,Tunisia,2018,Completed,"Snapshots,Survey findings",Available
+MICS6,West and Central Africa,"Congo, Democratic Republic of the",2017-2018,Completed,"Snapshots,Survey findings",Available
+MICS6,West and Central Africa,Ghana,2017-2018,Completed,"Snapshots,Survey findings",Not yet available
+MICS6,South Asia,Pakistan (Punjab),2017-2018,Completed,"Snapshots,Survey findings",Available
+MICS6,East Asia and the Pacific,"Korea, Democratic People's Republic of",2017,Completed,"Snapshots,Survey findings",Restricted
+MICS6,East Asia and the Pacific,Lao People's Democratic Republic,2017,Completed,Survey findings,Available
+MICS6,West and Central Africa,Sierra Leone,2017,Completed,"Snapshots,Survey findings",Available
+MICS6,West and Central Africa,Togo,2017,Completed,Survey findings,Not yet available
+MICS5,West and Central Africa,Nigeria,2016-2017,Completed,Final,Available
+MICS5,South Asia,Pakistan (Gilgit-Baltistan),2016-2017,Completed,"Final,Key findings",Available
+MICS5,South Asia,Pakistan (Khyber Pakhtunkhwa),2016-2017,Completed,Final,Available
+MICS5,West and Central Africa,Côte d'Ivoire,2016,Completed,Final,Available
+MICS5,West and Central Africa,Guinea,2016,Completed,Final,Available
+MICS5,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2016,Completed,Final,Available
+MICS5,East Asia and the Pacific,Mongolia (Nalaikh District),2016,Completed,Final,Available
+MICS5,Latin America and Caribbean,Paraguay,2016,Completed,"Final,Key findings",Available
+MICS5,East Asia and the Pacific,Thailand (14 Provinces),2016,Completed,Final,Not yet available
+MICS5,Latin America and Caribbean,Belize,2015-2016,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Senegal (Dakar City),2015-2016,Completed,"Final,Key findings",Available
+MICS5,East Asia and the Pacific,Thailand,2015-2016,Completed,"Final,Key findings",Available
+MICS5,East Asia and the Pacific,Thailand (Bangkok Small Community),2015-2016,Completed,Final,Available
+MICS5,Europe and Central Asia,Turkmenistan,2015-2016,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Kazakhstan,2015,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Mali,2015,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Mauritania,2015,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,Mexico,2015,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Congo,2014-2015,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Benin,2014,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Cameroon,2014,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,Cuba,2014,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,Dominican Republic,2014,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,El Salvador,2014,Completed,"Final,Key findings",Available
+MICS5,Eastern and Southern Africa,Eswatini,2014,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Guinea-Bissau,2014,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,Guyana,2014,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Kyrgyzstan,2014,Completed,"Final,Key findings",Available
+MICS5,South Asia,Nepal,2014,Completed,"Final,Key findings",Available
+MICS5,Middle East and North Africa,Oman,2014,Completed,"Final,Key findings",Restricted
+MICS5,South Asia,Pakistan (Punjab),2014,Completed,"Final,Key findings",Available
+MICS5,South Asia,Pakistan (Sindh),2014,Completed,"Final,Key findings",Available
+MICS5,West and Central Africa,Sao Tome and Principe,2014,Completed,"Biomarker,Final,Key findings",Available
+MICS5,Europe and Central Asia,Serbia,2014,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Serbia (Roma Settlements),2014,Completed,"Final,Key findings",Available
+MICS5,Middle East and North Africa,State of Palestine,2014,Completed,"Final,Key findings",Available
+MICS5,Middle East and North Africa,Sudan,2014,Completed,"Final,Key findings",Available
+MICS5,Eastern and Southern Africa,Zimbabwe,2014,Completed,"Final,Key findings",Available
+MICS5,Middle East and North Africa,Egypt (Sub-national),2013-2014,Completed,"Final,Key findings",Available
+MICS5,Eastern and Southern Africa,Kenya (Bungoma County),2013-2014,Completed,"Final,Key findings",Available
+MICS5,Eastern and Southern Africa,Kenya (Kakamega County),2013-2014,Completed,"Final,Key findings",Available
+MICS5,Eastern and Southern Africa,Kenya (Turkana County),2013-2014,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Kosovo under UNSC res. 1244,2013-2014,Completed,"Final,Key findings,Summary",Available
+MICS5,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2013-2014,Completed,"Final,Key findings,Summary",Available
+MICS5,Eastern and Southern Africa,Malawi,2013-2014,Completed,"Final,Key findings",Available
+MICS5,East Asia and the Pacific,Mongolia,2013-2014,Completed,"Final,Key findings",Available
+MICS5,East Asia and the Pacific,Viet Nam,2013-2014,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Montenegro,2013,Completed,"Final,Key findings",Available
+MICS5,Europe and Central Asia,Montenegro (Roma Settlements),2013,Completed,"Final,Key findings",Available
+MICS5,Latin America and Caribbean,Panama,2013,Completed,Key findings,Available
+MICS4,Middle East and North Africa,Algeria,2012-2013,Completed,Final,Available
+MICS5,South Asia,Bangladesh,2012-2013,Completed,"Final,Key findings",Available
+MICS4,East Asia and the Pacific,Thailand,2012-2013,Completed,"Final,Summary",Available
+MICS4,Latin America and Caribbean,Uruguay,2012-2013,Completed,"Final,Key findings",Available
+MICS4,Latin America and Caribbean,Barbados,2012,Completed,Final,Available
+MICS4,Europe and Central Asia,Belarus,2012,Completed,Final,Available
+MICS4,Eastern and Southern Africa,Madagascar (South),2012,Completed,Final,Available
+MICS4,Europe and Central Asia,"Moldova, Republic of",2012,Completed,"Final,Summary",Available
+MICS4,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2012,Completed,Final,Available
+MICS4,East Asia and the Pacific,Mongolia (Nalaikh District),2012,Completed,Final,Available
+MICS4,Middle East and North Africa,Qatar,2012,Completed,Final,Available
+MICS4,Latin America and Caribbean,Saint Lucia,2012,Completed,Final,Available
+MICS4,Europe and Central Asia,Ukraine,2012,Completed,"Final,Key findings",Available
+MICS4,Latin America and Caribbean,Argentina,2011-2012,Completed,Final,Available
+MICS4,Europe and Central Asia,Bosnia and Herzegovina,2011-2012,Completed,Final,Available
+MICS4,Europe and Central Asia,Bosnia and Herzegovina (Roma Settlements),2011-2012,Completed,Final,Available
+MICS4,East Asia and the Pacific,Lao People's Democratic Republic,2011-2012,Completed,Final,Available
+MICS4,Middle East and North Africa,Tunisia,2011-2012,Completed,"Final,Summary",Available
+MICS4,Latin America and Caribbean,Belize,2011,Completed,Final,Available
+MICS4,Latin America and Caribbean,Costa Rica,2011,Completed,Final,Available
+MICS4,West and Central Africa,Ghana,2011,Completed,"Final,Summary",Available
+MICS4,East Asia and the Pacific,Indonesia (Papua Selected Districts),2011,Completed,Final,Available
+MICS4,East Asia and the Pacific,Indonesia (West Papua Selected Districts),2011,Completed,Final,Available
+MICS4,Middle East and North Africa,Iraq,2011,Completed,Final,Available
+MICS4,Latin America and Caribbean,Jamaica,2011,Completed,Final,Available
+MICS4,Eastern and Southern Africa,Kenya (Nyanza Province),2011,Completed,Final,Available
+MICS4,Middle East and North Africa,Lebanon (Palestinians),2011,Completed,"Final,Preliminary",Available
+MICS4,West and Central Africa,Mauritania,2011,Completed,"Final,Summary",Available
+MICS4,West and Central Africa,Nigeria,2011,Completed,"Final,Summary",Available
+MICS4,Europe and Central Asia,"North Macedonia, Republic of",2011,Completed,Final,Available
+MICS4,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2011,Completed,Final,Available
+MICS4,South Asia,Pakistan (Punjab),2011,Completed,Final,Available
+MICS4,Eastern and Southern Africa,Somalia (Northeast Zone),2011,Completed,Final,Available
+MICS4,Eastern and Southern Africa,Somalia (Somaliland),2011,Completed,Final,Available
+MICS4,Latin America and Caribbean,Trinidad and Tobago,2011,Completed,Final,Available
+MICS4,South Asia,Afghanistan,2010-2011,Completed,Final,Available
+MICS4,Latin America and Caribbean,Cuba,2010-2011,Completed,Final,Available
+MICS4,West and Central Africa,Ghana (Accra),2010-2011,Completed,Final,Available
+MICS4,Europe and Central Asia,Kazakhstan,2010-2011,Completed,Final,Available
+MICS4,East Asia and the Pacific,Viet Nam,2010-2011,Completed,Final,Available
+MICS4,South Asia,Bhutan,2010,Completed,Final,Available
+MICS4,West and Central Africa,Central African Republic,2010,Completed,"Biomarker,Final,Summary",Available
+MICS4,West and Central Africa,Chad,2010,Completed,"Final,Summary",Available
+MICS4,West and Central Africa,"Congo, Democratic Republic of the",2010,Completed,"Final,Summary",Available
+MICS4,Eastern and Southern Africa,Eswatini,2010,Completed,Final,Available
+MICS4,West and Central Africa,Gambia,2010,Completed,Final,Available
+MICS4,West and Central Africa,Guinea-Bissau,2010,Completed,Final,Available
+MICS4,East Asia and the Pacific,Mongolia,2010,Completed,Final,Available
+MICS4,South Asia,Nepal (Mid- and Far-Western Regions),2010,Completed,Final,Available
+MICS4,South Asia,Pakistan (Balochistan),2010,Completed,Final,Available
+MICS4,Europe and Central Asia,Serbia,2010,Completed,Final,Available
+MICS4,Europe and Central Asia,Serbia (Roma Settlements),2010,Completed,Final,Available
+MICS4,West and Central Africa,Sierra Leone,2010,Completed,Final,Available
+MICS4,Eastern and Southern Africa,"South Sudan, Republic of",2010,Completed,Final,Available
+MICS4,Middle East and North Africa,State of Palestine,2010,Completed,Final,Available
+MICS4,Middle East and North Africa,Sudan,2010,Completed,"Final,Summary",Available
+MICS4,Latin America and Caribbean,Suriname,2010,Completed,Final,Available
+MICS4,West and Central Africa,Togo,2010,Completed,Final,Available
+MICS4,West and Central Africa,Mali,2009-2010,Completed,Final,Available
+MICS3,East Asia and the Pacific,"Myanmar, Republic of the Union of",2009-2010,Completed,Final,Not available
+MICS4,Eastern and Southern Africa,Kenya (Mombasa Informal Settlements),2009,Completed,Final,Available
+MICS4,East Asia and the Pacific,"Korea, Democratic People's Republic of",2009,Completed,Final,Restricted
+MICS3,Eastern and Southern Africa,Zimbabwe,2009,Completed,Final,Available
+MICS3,Eastern and Southern Africa,Kenya (Eastern Province),2008,Completed,Final,Not available
+MICS3,Eastern and Southern Africa,Mozambique,2008,Completed,Final,Available
+MICS3,West and Central Africa,Ghana (District),2007-2008,Completed,Final,Not available
+MICS3,East Asia and the Pacific,Vanuatu,2007-2008,Completed,Final,Available
+MICS3,West and Central Africa,Mauritania,2007,Completed,Final,Available
+MICS3,West and Central Africa,Nigeria,2007,Completed,Final,Available
+MICS3,Latin America and Caribbean,Guyana,2006-2007,Completed,Final,Available
+MICS3,Middle East and North Africa,Algeria,2006,Completed,Final,Not available
+MICS3,South Asia,Bangladesh,2006,Completed,Final,Available
+MICS3,Latin America and Caribbean,Belize,2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Bosnia and Herzegovina,2006,Completed,Final,Available
+MICS3,West and Central Africa,Burkina Faso,2006,Completed,Final,Available
+MICS3,West and Central Africa,Cameroon,2006,Completed,Final,Available
+MICS3,West and Central Africa,Central African Republic,2006,Completed,Final,Available
+MICS3,Latin America and Caribbean,Cuba,2006,Completed,Final,Available
+MICS3,West and Central Africa,Côte d'Ivoire,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Djibouti,2006,Completed,Final,Available
+MICS3,West and Central Africa,Ghana,2006,Completed,Final,Available
+MICS3,West and Central Africa,Guinea-Bissau,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Iraq,2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Kazakhstan,2006,Completed,Final,Available
+MICS3,East Asia and the Pacific,Lao People's Democratic Republic,2006,Completed,Final,Available
+MICS3,Eastern and Southern Africa,Malawi,2006,Completed,Final,Available
+MICS3,West and Central Africa,Sao Tome and Principe,2006,Completed,Final,Not available
+MICS3,Eastern and Southern Africa,Somalia,2006,Completed,Final,Available
+MICS3,Latin America and Caribbean,Suriname,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Syrian Arab Republic,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2006,Completed,Final,Not available
+MICS3,West and Central Africa,Togo,2006,Completed,Final,Available
+MICS3,Latin America and Caribbean,Trinidad and Tobago,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Tunisia,2006,Completed,Final,Not available
+MICS3,Europe and Central Asia,Turkmenistan,2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Uzbekistan,2006,Completed,Final,Available
+MICS3,East Asia and the Pacific,Viet Nam,2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Yemen,2006,Completed,Final,Available
+MICS3,West and Central Africa,Gambia,2005-2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Kyrgyzstan,2005-2006,Completed,Final,Available
+MICS3,Middle East and North Africa,Lebanon (Palestinians),2005-2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Montenegro,2005-2006,Completed,Final,Available
+MICS3,Europe and Central Asia,"North Macedonia, Republic of",2005-2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Serbia,2005-2006,Completed,Final,Available
+MICS3,West and Central Africa,Sierra Leone,2005-2006,Completed,Final,Available
+MICS3,East Asia and the Pacific,Thailand,2005-2006,Completed,Final,Available
+MICS3,Europe and Central Asia,Albania,2005,Completed,Final,Available
+MICS3,Europe and Central Asia,Belarus,2005,Completed,Final,Available
+MICS3,Eastern and Southern Africa,Burundi,2005,Completed,Final,Available
+MICS3,Europe and Central Asia,Georgia,2005,Completed,Final,Available
+MICS3,Latin America and Caribbean,Jamaica,2005,Completed,Final,Available
+MICS3,East Asia and the Pacific,Mongolia,2005,Completed,Final,Available
+MICS3,Europe and Central Asia,Tajikistan,2005,Completed,Final,Available
+MICS3,Europe and Central Asia,Ukraine,2005,Completed,Final,Available
+MICS2,South Asia,Afghanistan,2003,Completed,Final,Not available
+MICS2,Middle East and North Africa,Libya,2003,Completed,Preliminary,Not available
+MICS2,Eastern and Southern Africa,Angola,2001,Completed,Final,Available
+MICS2,West and Central Africa,"Congo, Democratic Republic of the",2001,Completed,Final,Available
+MICS2,Middle East and North Africa,Lebanon (Palestinians),2001,Completed,Final,Not available
+MICS2,South Asia,Maldives,2001,Completed,Final,Not available
+MICS2,South Asia,Afghanistan (Selected Regions of East),2000,Completed,Final,Not available
+MICS2,Europe and Central Asia,Albania,2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Algeria,2000,Completed,Final,Not available
+MICS2,Europe and Central Asia,Azerbaijan,2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Bahrain,2000,Completed,Not available,Not available
+MICS2,Latin America and Caribbean,"Bolivia, Plurinational State of",2000,Completed,Final,Available
+MICS2,Europe and Central Asia,Bosnia and Herzegovina,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Botswana,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Burundi,2000,Completed,Final,Available
+MICS2,West and Central Africa,Cameroon,2000,Completed,Final,Available
+MICS2,West and Central Africa,Central African Republic,2000,Completed,Final,Available
+MICS2,West and Central Africa,Chad,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Comoros,2000,Completed,Final,Available
+MICS2,Latin America and Caribbean,Cuba,2000,Completed,Final,Not available
+MICS2,West and Central Africa,Côte d'Ivoire,2000,Completed,Final,Available
+MICS2,Latin America and Caribbean,Dominican Republic,2000,Completed,Final,Available
+MICS2,West and Central Africa,Equatorial Guinea,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Eswatini,2000,Completed,Final,Available
+MICS2,West and Central Africa,Gambia,2000,Completed,Final,Available
+MICS2,West and Central Africa,Guinea-Bissau,2000,Completed,Final,Available
+MICS2,Latin America and Caribbean,Guyana,2000,Completed,Final,Available
+MICS2,South Asia,India,2000,Completed,Final,Not available
+MICS2,East Asia and the Pacific,Indonesia,2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Iraq,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Kenya,2000,Completed,Preliminary,Available
+MICS2,East Asia and the Pacific,"Korea, Democratic People's Republic of",2000,Completed,Final,Restricted
+MICS2,East Asia and the Pacific,Lao People's Democratic Republic,2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Lebanon,2000,Completed,Preliminary,Not available
+MICS2,Eastern and Southern Africa,Lesotho,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Madagascar,2000,Completed,Final,Available
+MICS2,Europe and Central Asia,"Moldova, Republic of",2000,Completed,Final,Available
+MICS2,East Asia and the Pacific,Mongolia,2000,Completed,Final,Available
+MICS2,East Asia and the Pacific,"Myanmar, Republic of the Union of",2000,Completed,Final,Available
+MICS2,West and Central Africa,Niger,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Rwanda,2000,Completed,Final,Available
+MICS2,West and Central Africa,Sao Tome and Principe,2000,Completed,Final,Available
+MICS2,West and Central Africa,Senegal,2000,Completed,Final,Available
+MICS2,West and Central Africa,Sierra Leone,2000,Completed,Final,Available
+MICS2,Eastern and Southern Africa,Somalia,2000,Completed,Final,Not available
+MICS2,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),2000,Completed,Final,Not available
+MICS2,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Syrian Arab Republic,2000,Completed,Preliminary,Not available
+MICS2,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2000,Completed,Final,Not available
+MICS2,Europe and Central Asia,Tajikistan,2000,Completed,Final,Available
+MICS2,West and Central Africa,Togo,2000,Completed,Final,Available
+MICS2,Latin America and Caribbean,Trinidad and Tobago,2000,Completed,Final,Available
+MICS2,Middle East and North Africa,Tunisia,2000,Completed,Final,Not available
+MICS2,Europe and Central Asia,Ukraine,2000,Completed,Final,Not available
+MICS2,Europe and Central Asia,Uzbekistan,2000,Completed,Final,Available
+MICS2,Latin America and Caribbean,"Venezuela, Bolivarian Republic of",2000,Completed,Final,Available
+MICS2,East Asia and the Pacific,Viet Nam,2000,Completed,Final,Available
+MICS2,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",2000,Completed,Final,Not available
+MICS2,Latin America and Caribbean,Suriname,1999-2000,Completed,Final,Available
+MICS2,Europe and Central Asia,Georgia,1999,Completed,Final,Not available
+MICS2,West and Central Africa,Nigeria,1999,Completed,Final,Not available
+MICS2,Europe and Central Asia,"North Macedonia, Republic of",1999,Completed,Final,Not available
+MICS2,East Asia and the Pacific,Philippines,1999,Completed,Final,Available
+MICS2,Middle East and North Africa,Sudan (South),1999,Completed,Final,Not available
+MICS2,Eastern and Southern Africa,Zambia,1999,Completed,Final,Available
+MICS1,East Asia and the Pacific,"Korea, Democratic People's Republic of",1998,Completed,Final,Restricted
+MICS1,South Asia,Afghanistan,1997,Completed,Final,Not available
+MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1997,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Somalia (Northeast Zone),1997,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Angola,1996,Completed,Final,Not available
+MICS1,Latin America and Caribbean,"Bolivia, Plurinational State of",1996,Completed,Final,Not available
+MICS1,West and Central Africa,Burkina Faso,1996,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Burundi,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Central African Republic,1996,Completed,Final,Not available
+MICS1,Europe and Central Asia,Croatia,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Côte d'Ivoire,1996,Completed,Final,Not available
+MICS1,Middle East and North Africa,Egypt,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Gabon,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Gambia,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Guinea,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Guinea-Bissau,1996,Completed,Final,Not available
+MICS1,East Asia and the Pacific,Indonesia,1996,Completed,Final,Not available
+MICS1,Middle East and North Africa,Iraq,1996,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Kenya (20 of 56 districts),1996,Completed,Final,Not available
+MICS1,East Asia and the Pacific,Lao People's Democratic Republic,1996,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Lesotho,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Mali,1996,Completed,Final,Not available
+MICS1,East Asia and the Pacific,Mongolia,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Niger,1996,Completed,Final,Not available
+MICS1,Latin America and Caribbean,Panama,1996,Completed,Final,Not available
+MICS1,East Asia and the Pacific,Philippines,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Sao Tome and Principe,1996,Completed,Final,Not available
+MICS1,West and Central Africa,Senegal,1996,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Somalia (Northwest Zone - Somaliland),1996,Completed,Final,Not available
+MICS1,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),1996,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,"Tanzania, United Republic of",1996,Completed,Final,Not available
+MICS1,West and Central Africa,Togo,1996,Completed,Final,Not available
+MICS1,East Asia and the Pacific,Viet Nam,1996,Completed,Final,Not available
+MICS1,Middle East and North Africa,Yemen,1996,Completed,Summary,Not available
+MICS1,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",1996,Completed,Final,Not available
+MICS1,South Asia,Nepal (Six Cycles),1995-1997,Completed,Final,Not available
+MICS1,South Asia,India,1995-1996,Completed,Summary,Not available
+MICS1,West and Central Africa,Mauritania,1995-1996,Completed,Final,Not available
+MICS1,Middle East and North Africa,Algeria,1995,Completed,Final,Not available
+MICS1,South Asia,Bangladesh,1995,Completed,Final,Not available
+MICS1,East Asia and the Pacific,China,1995,Completed,Final,Not available
+MICS1,West and Central Africa,"Congo, Democratic Republic of the",1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Eswatini,1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Ethiopia,1995,Completed,Final,Not available
+MICS1,West and Central Africa,Ghana,1995,Completed,Summary,Not available
+MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1995,Completed,Final,Not available
+MICS1,Europe and Central Asia,Kyrgyzstan,1995,Completed,Final,Not available
+MICS1,West and Central Africa,Liberia,1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Madagascar,1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Malawi,1995,Completed,Final,Not available
+MICS1,South Asia,Maldives,1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Mozambique,1995,Completed,Final,Not available
+MICS1,East Asia and the Pacific,"Myanmar, Republic of the Union of",1995,Completed,Final,Not available
+MICS1,West and Central Africa,Nigeria,1995,Completed,Final,Not available
+MICS1,Middle East and North Africa,Oman,1995,Completed,Final,Not available
+MICS1,South Asia,Pakistan,1995,Completed,Final,Not available
+MICS1,West and Central Africa,Sierra Leone,1995,Completed,Final,Not available
+MICS1,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",1995,Completed,Final,Not available
+MICS1,Middle East and North Africa,Syrian Arab Republic,1995,Completed,Final,Not available
+MICS1,Europe and Central Asia,Turkey,1995,Completed,Preliminary,Not available
+MICS1,Europe and Central Asia,Turkmenistan,1995,Completed,Final,Not available
+MICS1,Eastern and Southern Africa,Zambia,1995,Completed,Final,Not available
+MICS1,South Asia,Bangladesh,1993,Completed,Final,Not available
