@@ -10,7 +10,7 @@ The directories are:
 
 ## Summary of tasks
 
-### `download_mics_datasets`
+#### `download_mics_datasets`
 
 The task `download_mics_datasets` saves the following artefacts:
 
@@ -30,7 +30,7 @@ The download paths for MICS datasets are not standardised and need to be generat
 based on a CSV and parsing the html from the MICS website. Thus there are a few 
 manual steps involved in creating the archive.
 
-#### Saving the _surveys_catalogue.csv_ file
+### Saving the _surveys_catalogue.csv_ file
 
 Go to (https://mics.unicef.org/surveys). The page will be populated with a table 
 of all of the MICS surveys. Click the _Export_ button in the top right corner. 
@@ -43,7 +43,7 @@ directory `src/download_mics_datasets/`, overwriting the existing file.
 _Note: it may be possible to automate this step in future development._
 
 
-#### Saving the survey webpage .html
+### Saving the survey webpage .html
 
 Next, save the raw html for each of the pages of surveys in the directory 
 `src/download_mics_datasets/htmls/`. To do this scroll to the bottom of the page 
@@ -52,7 +52,7 @@ and step through each of the pages of surveys ![export_survey_catalogue](readme_
 On each page click _File_ then _Save Page As..._ to save the html.
 
 
-#### Updating the artefacts in the `orderly.yml`
+### Updating the artefacts in the `orderly.yml`
 
 Orderly requires that all files to be saved are explicitly named in the 
 `orderly.yml`. The list of artefacts needs to be updated for any new 
@@ -70,7 +70,7 @@ include the list of available surveys.
 Commit the changes to the `src/download_mics_dataset/` to git.
 
 
-#### Run the _orderly_ task
+### Run the _orderly_ task
 
 Finally, to update the archive wih any updated datasets, run the 
 orderly command:
