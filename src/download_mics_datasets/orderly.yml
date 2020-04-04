@@ -1,7 +1,9 @@
 script: script.R
 displayname: MICS Survey Dataset Downloads
-description: "MICS datasets are downloaded using the surveys_catalogue.csv\n"
+description: |
+  MICS datasets are downloaded using the surveys_catalogue.csv
 packages:
+- tools
 - httr
 - haven
 - foreign
@@ -9,7 +11,7 @@ packages:
 - stringi
 - stringdist
 - xml2
-resources: 
+resources:
 - surveys_catalogue.csv
 - htmls/1.html
 - htmls/2.html
@@ -19,220 +21,224 @@ resources:
 - htmls/6.html
 artefacts:
 - data:
+    description: Catalogue of MICS survey datasets with filenames
+    filenames: mics_survey_catalogue_filenames.csv
+- data:
     description: MICS Datasets
     filenames:
-    - mics_surveys/Bangladesh_MICS6_2019.rds
-    - mics_surveys/Zimbabwe_MICS6_2019.rds
-    - mics_surveys/Kiribati_MICS6_2018-2019.rds
-    - mics_surveys/Gambia_MICS6_2018.rds
-    - mics_surveys/Georgia_MICS6_2018.rds
-    - mics_surveys/Iraq_MICS6_2018.rds
-    - mics_surveys/Kyrgyzstan_MICS6_2018.rds
-    - mics_surveys/Lesotho_MICS6_2018.rds
-    - mics_surveys/Madagascar_MICS6_2018.rds
-    - mics_surveys/Mongolia_MICS6_2018.rds
-    - mics_surveys/Montenegro_MICS6_2018.rds
-    - mics_surveys/Montenegro (Roma Settlements)_MICS6_2018.rds
-    - mics_surveys/Suriname_MICS6_2018.rds
-    - mics_surveys/Tunisia_MICS6_2018.rds
-    - mics_surveys/Congo, Democratic Republic of the_MICS6_2017-2018.rds
-    - mics_surveys/Pakistan (Punjab)_MICS6_2017-2018.rds
-    - mics_surveys/Lao People's Democratic Republic_MICS6_2017.rds
-    - mics_surveys/Sierra Leone_MICS6_2017.rds
-    - mics_surveys/Nigeria_MICS5_2016-2017.rds
-    - mics_surveys/Pakistan (Gilgit-Baltistan)_MICS5_2016-2017.rds
-    - mics_surveys/Pakistan (Khyber Pakhtunkhwa)_MICS5_2016-2017.rds
-    - mics_surveys/Côte d'Ivoire_MICS5_2016.rds
-    - mics_surveys/Guinea_MICS5_2016.rds
-    - mics_surveys/Mongolia (Khuvsgul Aimag)_MICS5_2016.rds
-    - mics_surveys/Mongolia (Nalaikh District)_MICS5_2016.rds
-    - mics_surveys/Paraguay_MICS5_2016.rds
-    - mics_surveys/Belize_MICS5_2015-2016.rds
-    - mics_surveys/Senegal (Dakar City)_MICS5_2015-2016.rds
-    - mics_surveys/Thailand_MICS5_2015-2016.rds
-    - mics_surveys/Thailand (Bangkok Small Community)_MICS5_2015-2016.rds
-    - mics_surveys/Turkmenistan_MICS5_2015-2016.rds
-    - mics_surveys/Kazakhstan_MICS5_2015.rds
-    - mics_surveys/Mali_MICS5_2015.rds
-    - mics_surveys/Mauritania_MICS5_2015.rds
-    - mics_surveys/Mexico_MICS5_2015.rds
-    - mics_surveys/Congo_MICS5_2014-2015.rds
-    - mics_surveys/Benin_MICS5_2014.rds
-    - mics_surveys/Cameroon_MICS5_2014.rds
-    - mics_surveys/Cuba_MICS5_2014.rds
-    - mics_surveys/Dominican Republic_MICS5_2014.rds
-    - mics_surveys/El Salvador_MICS5_2014.rds
-    - mics_surveys/Eswatini_MICS5_2014.rds
-    - mics_surveys/Guinea-Bissau_MICS5_2014.rds
-    - mics_surveys/Guyana_MICS5_2014.rds
-    - mics_surveys/Kyrgyzstan_MICS5_2014.rds
-    - mics_surveys/Nepal_MICS5_2014.rds
-    - mics_surveys/Pakistan (Punjab)_MICS5_2014.rds
-    - mics_surveys/Pakistan (Sindh)_MICS5_2014.rds
-    - mics_surveys/Sao Tome and Principe_MICS5_2014.rds
-    - mics_surveys/Serbia_MICS5_2014.rds
-    - mics_surveys/Serbia (Roma Settlements)_MICS5_2014.rds
-    - mics_surveys/State of Palestine_MICS5_2014.rds
-    - mics_surveys/Sudan_MICS5_2014.rds
-    - mics_surveys/Zimbabwe_MICS5_2014.rds
-    - mics_surveys/Egypt (Sub-national)_MICS5_2013-2014.rds
-    - mics_surveys/Kenya (Bungoma County)_MICS5_2013-2014.rds
-    - mics_surveys/Kenya (Kakamega County)_MICS5_2013-2014.rds
-    - mics_surveys/Kenya (Turkana County)_MICS5_2013-2014.rds
-    - mics_surveys/Kosovo under UNSC res. 1244_MICS5_2013-2014.rds
-    - mics_surveys/Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)_MICS5_2013-2014.rds
-    - mics_surveys/Malawi_MICS5_2013-2014.rds
-    - mics_surveys/Mongolia_MICS5_2013-2014.rds
-    - mics_surveys/Viet Nam_MICS5_2013-2014.rds
-    - mics_surveys/Montenegro_MICS5_2013.rds
-    - mics_surveys/Montenegro (Roma Settlements)_MICS5_2013.rds
-    - mics_surveys/Panama_MICS5_2013.rds
-    - mics_surveys/Algeria_MICS4_2012-2013.rds
-    - mics_surveys/Bangladesh_MICS5_2012-2013.rds
-    - mics_surveys/Thailand_MICS4_2012-2013.rds
-    - mics_surveys/Uruguay_MICS4_2012-2013.rds
-    - mics_surveys/Barbados_MICS4_2012.rds
-    - mics_surveys/Belarus_MICS4_2012.rds
-    - mics_surveys/Madagascar (South)_MICS4_2012.rds
-    - mics_surveys/Moldova, Republic of_MICS4_2012.rds
-    - mics_surveys/Mongolia (Khuvsgul Aimag)_MICS4_2012.rds
-    - mics_surveys/Mongolia (Nalaikh District)_MICS4_2012.rds
-    - mics_surveys/Qatar_MICS4_2012.rds
-    - mics_surveys/Saint Lucia_MICS4_2012.rds
-    - mics_surveys/Ukraine_MICS4_2012.rds
-    - mics_surveys/Argentina_MICS4_2011-2012.rds
-    - mics_surveys/Bosnia and Herzegovina_MICS4_2011-2012.rds
-    - mics_surveys/Bosnia and Herzegovina (Roma Settlements)_MICS4_2011-2012.rds
-    - mics_surveys/Lao People's Democratic Republic_MICS4_2011-2012.rds
-    - mics_surveys/Tunisia_MICS4_2011-2012.rds
-    - mics_surveys/Belize_MICS4_2011.rds
-    - mics_surveys/Costa Rica_MICS4_2011.rds
-    - mics_surveys/Ghana_MICS4_2011.rds
-    - mics_surveys/Indonesia (Papua Selected Districts)_MICS4_2011.rds
-    - mics_surveys/Indonesia (West Papua Selected Districts)_MICS4_2011.rds
-    - mics_surveys/Iraq_MICS4_2011.rds
-    - mics_surveys/Jamaica_MICS4_2011.rds
-    - mics_surveys/Kenya (Nyanza Province)_MICS4_2011.rds
-    - mics_surveys/Lebanon (Palestinians)_MICS4_2011.rds
-    - mics_surveys/Mauritania_MICS4_2011.rds
-    - mics_surveys/Nigeria_MICS4_2011.rds
-    - mics_surveys/North Macedonia, Republic of_MICS4_2011.rds
-    - mics_surveys/North Macedonia, Republic of (Roma Settlements)_MICS4_2011.rds
-    - mics_surveys/Pakistan (Punjab)_MICS4_2011.rds
-    - mics_surveys/Somalia (Northeast Zone)_MICS4_2011.rds
-    - mics_surveys/Somalia (Somaliland)_MICS4_2011.rds
-    - mics_surveys/Trinidad and Tobago_MICS4_2011.rds
-    - mics_surveys/Afghanistan_MICS4_2010-2011.rds
-    - mics_surveys/Cuba_MICS4_2010-2011.rds
-    - mics_surveys/Ghana (Accra)_MICS4_2010-2011.rds
-    - mics_surveys/Kazakhstan_MICS4_2010-2011.rds
-    - mics_surveys/Viet Nam_MICS4_2010-2011.rds
-    - mics_surveys/Bhutan_MICS4_2010.rds
-    - mics_surveys/Central African Republic_MICS4_2010.rds
-    - mics_surveys/Chad_MICS4_2010.rds
-    - mics_surveys/Congo, Democratic Republic of the_MICS4_2010.rds
-    - mics_surveys/Eswatini_MICS4_2010.rds
-    - mics_surveys/Gambia_MICS4_2010.rds
-    - mics_surveys/Guinea-Bissau_MICS4_2010.rds
-    - mics_surveys/Mongolia_MICS4_2010.rds
-    - mics_surveys/Nepal (Mid- and Far-Western Regions)_MICS4_2010.rds
-    - mics_surveys/Pakistan (Balochistan)_MICS4_2010.rds
-    - mics_surveys/Serbia_MICS4_2010.rds
-    - mics_surveys/Serbia (Roma Settlements)_MICS4_2010.rds
-    - mics_surveys/Sierra Leone_MICS4_2010.rds
-    - mics_surveys/South Sudan, Republic of_MICS4_2010.rds
-    - mics_surveys/State of Palestine_MICS4_2010.rds
-    - mics_surveys/Sudan_MICS4_2010.rds
-    - mics_surveys/Suriname_MICS4_2010.rds
-    - mics_surveys/Togo_MICS4_2010.rds
-    - mics_surveys/Mali_MICS4_2009-2010.rds
-    - mics_surveys/Kenya (Mombasa Informal Settlements)_MICS4_2009.rds
-    - mics_surveys/Zimbabwe_MICS3_2009.rds
-    - mics_surveys/Mozambique_MICS3_2008.rds
-    - mics_surveys/Vanuatu_MICS3_2007-2008.rds
-    - mics_surveys/Mauritania_MICS3_2007.rds
-    - mics_surveys/Nigeria_MICS3_2007.rds
-    - mics_surveys/Guyana_MICS3_2006-2007.rds
-    - mics_surveys/Bangladesh_MICS3_2006.rds
-    - mics_surveys/Belize_MICS3_2006.rds
-    - mics_surveys/Bosnia and Herzegovina_MICS3_2006.rds
-    - mics_surveys/Burkina Faso_MICS3_2006.rds
-    - mics_surveys/Cameroon_MICS3_2006.rds
-    - mics_surveys/Central African Republic_MICS3_2006.rds
-    - mics_surveys/Cuba_MICS3_2006.rds
-    - mics_surveys/Côte d'Ivoire_MICS3_2006.rds
-    - mics_surveys/Djibouti_MICS3_2006.rds
-    - mics_surveys/Ghana_MICS3_2006.rds
-    - mics_surveys/Guinea-Bissau_MICS3_2006.rds
-    - mics_surveys/Iraq_MICS3_2006.rds
-    - mics_surveys/Kazakhstan_MICS3_2006.rds
-    - mics_surveys/Lao People's Democratic Republic_MICS3_2006.rds
-    - mics_surveys/Malawi_MICS3_2006.rds
-    - mics_surveys/Somalia_MICS3_2006.rds
-    - mics_surveys/Suriname_MICS3_2006.rds
-    - mics_surveys/Syrian Arab Republic_MICS3_2006.rds
-    - mics_surveys/Togo_MICS3_2006.rds
-    - mics_surveys/Trinidad and Tobago_MICS3_2006.rds
-    - mics_surveys/Turkmenistan_MICS3_2006.rds
-    - mics_surveys/Uzbekistan_MICS3_2006.rds
-    - mics_surveys/Viet Nam_MICS3_2006.rds
-    - mics_surveys/Yemen_MICS3_2006.rds
-    - mics_surveys/Gambia_MICS3_2005-2006.rds
-    - mics_surveys/Kyrgyzstan_MICS3_2005-2006.rds
-    - mics_surveys/Lebanon (Palestinians)_MICS3_2005-2006.rds
-    - mics_surveys/Montenegro_MICS3_2005-2006.rds
-    - mics_surveys/North Macedonia, Republic of_MICS3_2005-2006.rds
-    - mics_surveys/Serbia_MICS3_2005-2006.rds
-    - mics_surveys/Sierra Leone_MICS3_2005-2006.rds
-    - mics_surveys/Thailand_MICS3_2005-2006.rds
-    - mics_surveys/Albania_MICS3_2005.rds
-    - mics_surveys/Belarus_MICS3_2005.rds
-    - mics_surveys/Burundi_MICS3_2005.rds
-    - mics_surveys/Georgia_MICS3_2005.rds
-    - mics_surveys/Jamaica_MICS3_2005.rds
-    - mics_surveys/Mongolia_MICS3_2005.rds
-    - mics_surveys/Tajikistan_MICS3_2005.rds
-    - mics_surveys/Ukraine_MICS3_2005.rds
-    - mics_surveys/Angola_MICS2_2001.rds
-    - mics_surveys/Congo, Democratic Republic of the_MICS2_2001.rds
-    - mics_surveys/Albania_MICS2_2000.rds
-    - mics_surveys/Azerbaijan_MICS2_2000.rds
-    - mics_surveys/Bolivia, Plurinational State of_MICS2_2000.rds
-    - mics_surveys/Bosnia and Herzegovina_MICS2_2000.rds
-    - mics_surveys/Botswana_MICS2_2000.rds
-    - mics_surveys/Burundi_MICS2_2000.rds
-    - mics_surveys/Cameroon_MICS2_2000.rds
-    - mics_surveys/Central African Republic_MICS2_2000.rds
-    - mics_surveys/Chad_MICS2_2000.rds
-    - mics_surveys/Comoros_MICS2_2000.rds
-    - mics_surveys/Côte d'Ivoire_MICS2_2000.rds
-    - mics_surveys/Dominican Republic_MICS2_2000.rds
-    - mics_surveys/Equatorial Guinea_MICS2_2000.rds
-    - mics_surveys/Eswatini_MICS2_2000.rds
-    - mics_surveys/Gambia_MICS2_2000.rds
-    - mics_surveys/Guinea-Bissau_MICS2_2000.rds
-    - mics_surveys/Guyana_MICS2_2000.rds
-    - mics_surveys/Indonesia_MICS2_2000.rds
-    - mics_surveys/Iraq_MICS2_2000.rds
-    - mics_surveys/Kenya_MICS2_2000.rds
-    - mics_surveys/Lao People's Democratic Republic_MICS2_2000.rds
-    - mics_surveys/Lesotho_MICS2_2000.rds
-    - mics_surveys/Madagascar_MICS2_2000.rds
-    - mics_surveys/Moldova, Republic of_MICS2_2000.rds
-    - mics_surveys/Mongolia_MICS2_2000.rds
-    - mics_surveys/Myanmar, Republic of the Union of_MICS2_2000.rds
-    - mics_surveys/Niger_MICS2_2000.rds
-    - mics_surveys/Rwanda_MICS2_2000.rds
-    - mics_surveys/Sao Tome and Principe_MICS2_2000.rds
-    - mics_surveys/Senegal_MICS2_2000.rds
-    - mics_surveys/Sierra Leone_MICS2_2000.rds
-    - mics_surveys/Sudan (including current South Sudan, Republic of)_MICS2_2000.rds
-    - mics_surveys/Tajikistan_MICS2_2000.rds
-    - mics_surveys/Togo_MICS2_2000.rds
-    - mics_surveys/Trinidad and Tobago_MICS2_2000.rds
-    - mics_surveys/Uzbekistan_MICS2_2000.rds
-    - mics_surveys/Venezuela, Bolivarian Republic of_MICS2_2000.rds
-    - mics_surveys/Viet Nam_MICS2_2000.rds
-    - mics_surveys/Suriname_MICS2_1999-2000.rds
-    - mics_surveys/Philippines_MICS2_1999.rds
-    - mics_surveys/Zambia_MICS2_1999.rds
+    - mics_datasets_raw/Bangladesh MICS6 SPSS Datasets.zip
+    - mics_datasets_raw/Zimbabwe MICS6 SPSS Datasets.zip
+    - mics_datasets_raw/Kiribati MICS6 Datasets.zip
+    - mics_datasets_raw/The-Gambia-MICS6-Datasets.zip
+    - mics_datasets_raw/Georgia MICS6 SPSS Datasets.zip
+    - mics_datasets_raw/Iraq MICS6 Datasets.zip
+    - mics_datasets_raw/Kyrgyz Republic MICS6 Datasets.zip
+    - mics_datasets_raw/Lesotho_MICS6_datasets.zip
+    - mics_datasets_raw/Madagascar MICS6 SPSS dataset.zip
+    - mics_datasets_raw/Mongolia MICS 2018 SPSS Datasets.zip
+    - mics_datasets_raw/Montenegro MICS6 Datasets.zip
+    - mics_datasets_raw/Montenegro (Roma Settlements) MICS6 Datasets.zip
+    - mics_datasets_raw/Suriname MICS6 SPSS Datafiles.zip
+    - mics_datasets_raw/Tunisia MICS6 Datasets.zip
+    - mics_datasets_raw/DRCongo MICS6 SPSS Datafiles.zip
+    - mics_datasets_raw/Pakistan Punjab MICS6 Datasets.zip
+    - mics_datasets_raw/Lao PDR MICS6 Datasets.zip
+    - mics_datasets_raw/Sierra Leone MICS6 Datasets.zip
+    - mics_datasets_raw/Nigeria MICS5 Datasets.zip
+    - mics_datasets_raw/Pakistan (Gilgit Baltistan)_MICS5_Datasets.zip
+    - mics_datasets_raw/Pakistan_(Khyber_Pakhtunkhwa)_MICS5_Datasets.zip
+    - mics_datasets_raw/Côte d'Ivoire_MICS5_Datasets.zip
+    - mics_datasets_raw/Guinea_MICS5_Datasets.zip
+    - mics_datasets_raw/Mongolia (Khuvsgul Aimag)_MICS5_Datasets.zip
+    - mics_datasets_raw/Mongolia (Nalaikh District)_MICS5_Datasets.zip
+    - mics_datasets_raw/Paraguay_MICS5_Datasets.zip
+    - mics_datasets_raw/Belize_MICS5_Datasets.zip
+    - mics_datasets_raw/Senegal (Dakar)_MICS5_Datasets.zip
+    - mics_datasets_raw/Thailand_MICS5_Datasets.zip
+    - mics_datasets_raw/Thailand Bangkok_MICS5_Datasets.zip
+    - mics_datasets_raw/Turkmenistan_MICS5_Datasets.zip
+    - mics_datasets_raw/Kazakhstan_MICS5_Datasets.zip
+    - mics_datasets_raw/Mali_MICS5_Datasets.zip
+    - mics_datasets_raw/Mauritania_MICS5_Datasets.zip
+    - mics_datasets_raw/Mexico_MICS5_Datasets.zip
+    - mics_datasets_raw/Congo_MICS5_Datasets.zip
+    - mics_datasets_raw/Benin_MICS5_Datasets.zip
+    - mics_datasets_raw/Cameroon_MICS5_Datasets.zip
+    - mics_datasets_raw/Cuba 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Dominican Republic_MICS5_Datasets.zip
+    - mics_datasets_raw/El Salvador_MICS5_Datasets.zip
+    - mics_datasets_raw/Swaziland_MICS5_Datasets.zip
+    - mics_datasets_raw/Guinea Bissau_MICS5_Datasets.zip
+    - mics_datasets_raw/Guyana_MICS 2014_Datasets.zip
+    - mics_datasets_raw/Kyrgyzstan 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Nepal 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Pakistan (Punjab)_MICS5_Datasets.zip
+    - mics_datasets_raw/Pakistan (Sindh)_MICS5_Datasets.zip
+    - mics_datasets_raw/Sao Tome and Principe 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Serbia 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Serbia (Roma Settlements) 2014 MICS_Datasets.zip
+    - mics_datasets_raw/State of Palestine 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Sudan_MICS5_Datasets.zip
+    - mics_datasets_raw/Zimbabwe 2014 MICS_Datasets.zip
+    - mics_datasets_raw/Egypt (Sub-national) 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Kenya (Bungoma County) 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Kenya (Kakamega County) 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Kenya (Turkana County) 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Kosovo (UNSCR 1244) 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Kosovo (UNSCR 1244) (Roma, Ashkali, and Egyptian Communities)
+      2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Malawi 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Mongolia_MICS5_Datasets.zip
+    - mics_datasets_raw/Viet Nam 2013-14 MICS_Datasets.zip
+    - mics_datasets_raw/Montenegro 2013 MICS_Datasets.zip
+    - mics_datasets_raw/Montenegro (Roma Settlements) 2013 MICS_Datasets.zip
+    - mics_datasets_raw/Panama 2013 MICS_Datasets.zip
+    - mics_datasets_raw/Algeria_MICS4_Datasets.zip
+    - mics_datasets_raw/Bangladesh 2012-13 MICS_Datasets.zip
+    - mics_datasets_raw/Thailand_MICS4_Datasets.zip
+    - mics_datasets_raw/Uruguay 2012-13_Datasets.zip
+    - mics_datasets_raw/Barbados 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Belarus 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Madagascar (South) 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Moldova 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Mongolia (Khuvsgul Aimag) 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Mongolia (Nalaikh District)_MICS4_Datasets.zip
+    - mics_datasets_raw/Qatar_MICS4_Datasets.zip
+    - mics_datasets_raw/Saint Lucia 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Ukraine 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Argentina 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Bosnia and Herzegovina 2012 MICS _Datasets.zip
+    - mics_datasets_raw/Bosnia and Herzegovina (Roma Settlements) 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Lao 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Tunisia 2012 MICS_Datasets.zip
+    - mics_datasets_raw/Belize 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Costa Rica 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Ghana 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Indonesia (Selected Districts of Papua) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Indonesia (Selected Districts of West Papua) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Iraq 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Jamaica 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Kenya (Nyanza Province)_MICS4_Datasets.zip
+    - mics_datasets_raw/Lebanon (Palestinians) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Mauritania_MICS4_Datasets.zip
+    - mics_datasets_raw/Nigeria 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Macedonia 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Macedonia (Roma Settlements) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Pakistan (Punjab) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Somalia (Northeast Zone) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Somalia (Somaliland) 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Trinidad and Tobago_MICS4_Datasets.zip
+    - mics_datasets_raw/Afghanistan 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Cuba 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Ghana (Accra) 2010-11 MICS_Datasets.zip
+    - mics_datasets_raw/Kazakhstan 2010-11 MICS_Datasets.zip
+    - mics_datasets_raw/Viet Nam 2011 MICS_Datasets.zip
+    - mics_datasets_raw/Bhutan 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Central African Republic 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Chad 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Congo DR 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Swaziland 2010 MICS_Datasets.zip
+    - mics_datasets_raw/The Gambia_MICS4_Datasets.zip
+    - mics_datasets_raw/Guinea Bissau_MICS4_Datasets.zip
+    - mics_datasets_raw/Mongolia 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Nepal (Mid and Far Western Regions) 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Pakistan (Balochistan) 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Serbia 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Serbia (Roma Settlements) 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Sierra Leone 2010 MICS_Datasets.zip
+    - mics_datasets_raw/South Sudan 2010 MICS_Datasets.zip
+    - mics_datasets_raw/State of Palestine 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Sudan_2010_MICS4_Datasets.zip
+    - mics_datasets_raw/Suriname 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Togo 2010 MICS_Datasets.zip
+    - mics_datasets_raw/Mali 2009-10 MICS4 Datasets.zip
+    - mics_datasets_raw/Kenya (Mombasa Informal Settlements) 2009 MICS_Datasets.zip
+    - mics_datasets_raw/Zimbabwe 2009 MICS_Datasets.zip
+    - mics_datasets_raw/Mozambique 2008 MICS_Datasets.zip
+    - mics_datasets_raw/Vanuatu 2007 MICS_Datasets.zip
+    - mics_datasets_raw/Mauritania 2007 MICS_Datasets.zip
+    - mics_datasets_raw/Nigeria 2007 MICS_Datasets.zip
+    - mics_datasets_raw/Guyana 2006-07 MICS_Datasets.zip
+    - mics_datasets_raw/Bangladesh 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Belize 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Bosnia and Herzegovina 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Burkina Faso 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Cameroon 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Central African Republic 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Cuba 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Cote d'Ivoire 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Djibouti 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Ghana 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Guinea-Bissau 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Iraq 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Kazakhstan 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Lao PDR 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Malawi 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Somalia 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Suriname 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Syrian Arab Republic 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Togo 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Trinidad and Tobago 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Turkmenistan 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Uzbekistan 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Viet Nam 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Yemen 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Gambia 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Kyrgyzstan 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Lebanon (Palestinians) 2006 MICS_Datasets.zip
+    - mics_datasets_raw/Montenegro 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Macedonia 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Serbia 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Sierra Leone 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Thailand 2005-06 MICS_Datasets.zip
+    - mics_datasets_raw/Albania 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Belarus 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Burundi 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Georgia 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Jamaica 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Mongolia 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Tajikistan 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Ukraine 2005 MICS_Datasets.zip
+    - mics_datasets_raw/Angola 2001 MICS_Datasets.zip
+    - mics_datasets_raw/Congo, Democratic Republic of 2001 MICS_Datasets.zip
+    - mics_datasets_raw/Albania 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Azerbaijan 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Bolivia 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Bosnia and Herzegovina 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Botswana 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Burundi 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Cameroon 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Central African Republic 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Chad 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Comoros 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Cote d'Ivoire 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Dominican Republic 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Equatorial Guinea 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Swaziland 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Gambia 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Guinea Bissau 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Guyana 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Indonesia MICS2 2000_Datasets.zip
+    - mics_datasets_raw/Iraq 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Kenya 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Lao PDR 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Lesotho 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Madagascar 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Moldova 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Mongolia 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Myanmar 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Niger 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Rwanda 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Sao Tome and Principle 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Senegal 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Sierra Leone 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Sudan 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Tajikistan 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Togo 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Trinidad and Tobago 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Uzbekistan 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Venezuela 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Viet Nam 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Suriname 2000 MICS_Datasets.zip
+    - mics_datasets_raw/Philippines 1999 MICS_Datasets.zip
+    - mics_datasets_raw/Zambia 1999 MICS_Datasets.zip
