@@ -19,6 +19,9 @@ The task `download_mics_datasets` saves the following artefacts:
 * A folder `mics_datasets_raw` containing the raw ZIP files of survey datasets 
   available from (https://mics.unicef.org/surveys).
 
+The workflow for parsing and downloading MICS survey datasets was developed
+by [OJ Watson](https://github.com/OJWatson).
+
 ## Creating or updating the archive
 
 Creating the archive requires the `orderly` package:
