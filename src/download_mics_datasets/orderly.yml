@@ -3,6 +3,8 @@ displayname: MICS Survey Dataset Downloads
 description: |
   MICS datasets are downloaded using the surveys_catalogue.csv
 packages:
+- countrycode
+- dplyr
 - tools
 - httr
 - haven
