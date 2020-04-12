@@ -10,8 +10,8 @@ stem <- "https://mics-surveys-prod.s3.amazonaws.com"
 full <- mapply(FUN = file.path, stem, csv$round, csv$region, csv$country, csv$year, "Datasets",
                mapply(paste, csv$country, csv$round, "SPSS Datasets.zip"))
 urls <- vapply(full, FUN = URLencode, FUN.VALUE = character(1))
-csv$urls <- urls
-csv$urls[!is_available] <- NA
+csv$url <- urls
+csv$url[!is_available] <- NA
 
 
 ## Download URLS do not follow a standardised format, so parse downloaded htmls
@@ -47,13 +47,13 @@ match_clean <- function(a, b, quiet=TRUE){
   }
   return(ret)
 }
-csv$urls[is_available] <- urls[match_clean(dirname(csv$urls[is_available]), dirname(urls))]
-csv$filename[is_available] <- vapply(basename(csv$urls[is_available]), URLdecode, character(1))
+csv$url[is_available] <- urls[match_clean(dirname(csv$url[is_available]), dirname(urls))]
+csv$filename[is_available] <- vapply(basename(csv$url[is_available]), URLdecode, character(1))
 
 ## Move URL to last column
-urls_tmp <- csv$urls
-csv$urls <- NULL
-csv$urls <- urls_tmp
+url_tmp <- csv$url
+csv$url <- NULL
+csv$url <- url_tmp
 
 
 ## Save survey catalogue CSV with filenames
@@ -63,7 +63,7 @@ write.csv(csv, "mics_survey_catalogue_filenames.csv", row.names = FALSE, na = ""
 ## Identify datasets to download
 save_dir <- "mics_datasets_raw"
 
-urls <- csv$urls[is_available]
+urls <- csv$url[is_available]
 paths <- file.path(save_dir, csv$filename[is_available])
 
 ## update orderly.yml with all identified artefacts

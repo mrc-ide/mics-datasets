@@ -22,6 +22,29 @@ The task `download_mics_datasets` saves the following artefacts:
 The workflow for parsing and downloading MICS survey datasets was developed
 by [OJ Watson](https://github.com/OJWatson).
 
+#### `mics_rds`
+
+The task `convert_mics_rds` re-saves the MICS datasets as RDS files. It saves the
+following artefacts:
+
+* A CSV `mics_survey_catalogue.csv` with a list of all surveys and the assigned 
+  location code and survey ID. The task assigns a `survey_id` to each survey 
+  consisting of a three letter location code, survey year and suffix `MICS`. 
+  For national surveys, the location code is the ISO3. For subnational surveys, 
+  it is the first two letters of the ISO3 and a third letter, and checking that 
+  it does not clash with assignd ISO3 codes.
+
+* The folder `mics_datasets_rds` contains an RDS file for each survey dataset. The 
+  RDS file consists of a list of data frames for each of the datasets contained 
+  in the raw zip. SPSS datasets are imported via `haven:read_sav()` and saved as `
+  haven_labelled` variables. If the raw dataset contained a `.txt` Readme file, 
+  this is also saved in the list via `readLines()`. Early MICS surveys contained
+  MS Word (`.doc`) Readme files. These are not parsed.
+
+This exists as a separate task from `download_mics_datasets` so that errors or 
+adjustments to the parsed RDS files can be fixed without re-downloading all raw
+files.
+
 ## Creating or updating the archive
 
 Creating the archive requires the `orderly` package:
