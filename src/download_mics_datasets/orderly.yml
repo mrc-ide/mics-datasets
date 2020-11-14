@@ -5,14 +5,15 @@ description: |
 packages:
 - countrycode
 - dplyr
-- tools
-- httr
-- haven
 - foreign
-- yaml
+- haven
+- httr
+- rvest
 - stringi
 - stringdist
+- tools
 - xml2
+- yaml
 resources:
 - surveys_catalogue.csv
 - htmls/1.html
