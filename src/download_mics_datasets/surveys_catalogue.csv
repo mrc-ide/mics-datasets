@@ -1,74 +1,75 @@
 round,region,country,year,status,reports,datasets
-MICS6,Europe and Central Asia,Azerbaijan,2021,Survey design,,
-MICS6,Europe and Central Asia,Kazakhstan,2021,Survey design,,
-MICS6,West and Central Africa,Benin,2020,Survey design,,
-MICS6,Europe and Central Asia,Bosnia and Herzegovina,2020,Survey design,,
-MICS6,Europe and Central Asia,Bosnia and Herzegovina (Roma Settlements),2020,Survey design,,
-MICS6,Latin America and Caribbean,El Salvador,2020,Survey design,,
-MICS6,Eastern and Southern Africa,Eswatini,2020,Survey design,,
-MICS6,East Asia and the Pacific,Fiji,2020,Survey design,,
-MICS6,Latin America and Caribbean,Jamaica,2020,Survey design,,
-MICS6,Middle East and North Africa,Lebanon,2020,Survey design,,
-MICS6,East Asia and the Pacific,Nauru,2020,Survey design,,
-MICS6,West and Central Africa,Nigeria,2020,Survey design,,
-MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020,Survey design,,
-MICS6,Latin America and Caribbean,Saint Lucia,2020,Survey design,,
-MICS6,Middle East and North Africa,Sudan,2020,Survey design,,
-MICS6,Latin America and Caribbean,Trinidad and Tobago,2020,Survey design,,
-MICS6,Europe and Central Asia,Uzbekistan,2020,Survey design,,
-MICS6,East Asia and the Pacific,Viet Nam,2020,Survey design,,
-MICS6,Middle East and North Africa,Yemen,2020,Survey design,,
-MICS6,Latin America and Caribbean,Argentina,2019-2020,Data collection,,
-MICS6,Latin America and Caribbean,Guyana,2019-2020,Data processing / analysis,,
-MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Data collection,,
-MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244 (Roma settlements),2019-2020,Data collection,,
-MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data collection,,
-MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,,
-MICS6,East Asia and the Pacific,Samoa,2019-2020,Data processing / analysis,,
-MICS6,Middle East and North Africa,State of Palestine,2019-2020,Data processing / analysis,,
-MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data collection,,
-MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data collection,,
+MICS7,Europe and Central Asia,Azerbaijan,2022,Survey design,"",""
+MICS6,Latin America and Caribbean,El Salvador,2021,Survey design,"",""
+MICS6,East Asia and the Pacific,Federated States of Micronesia,2021,Survey design,"",""
+MICS6,East Asia and the Pacific,Fiji,2021,Survey design,"",""
+MICS6,Latin America and Caribbean,Jamaica,2021,Survey design,"",""
+MICS6,Europe and Central Asia,Kazakhstan,2021,Survey design,"",""
+MICS6,Middle East and North Africa,Lebanon,2021,Survey design,"",""
+MICS6,East Asia and the Pacific,Nauru,2021,Survey design,"",""
+MICS6,West and Central Africa,Nigeria,2021,Survey design,"",""
+MICS6,Latin America and Caribbean,Saint Lucia,2021,Survey design,"",""
+MICS6,Middle East and North Africa,Sudan,2021,Survey design,"",""
+MICS6,Latin America and Caribbean,Trinidad and Tobago,2021,Survey design,"",""
+MICS6,Europe and Central Asia,Uzbekistan,2021,Survey design,"",""
+MICS6,East Asia and the Pacific,Vanuatu,2021,Survey design,"",""
+MICS6,Middle East and North Africa,Yemen,2021,Survey design,"",""
+MICS6,Latin America and Caribbean,Nicaragua,2020-2021,Survey design,"",""
+MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020-2021,Data collection,"",""
+MICS6,East Asia and the Pacific,Viet Nam,2020-2021,Survey design,"",""
+MICS6,West and Central Africa,Benin,2020,Survey design,"",""
+MICS6,Eastern and Southern Africa,Eswatini,2020,Survey design,"",""
+MICS6,Latin America and Caribbean,Argentina,2019-2020,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Guyana,2019-2020,Data processing / analysis,"",""
+MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Data processing / analysis,"",""
+MICS6,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2019-2020,Data processing / analysis,"",""
+MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data processing / analysis,"",""
+MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,"",""
+MICS6,East Asia and the Pacific,Samoa,2019-2020,Data processing / analysis,Preliminary report,""
+MICS6,Middle East and North Africa,State of Palestine,2019-2020,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data processing / analysis,"",""
+MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data processing / analysis,"",""
 MICS6,South Asia,Bangladesh,2019,Completed,"Snapshots,Survey findings",Available
 MICS6,Europe and Central Asia,Belarus,2019,Completed,Snapshots,Not yet available
-MICS6,West and Central Africa,Chad,2019,Data processing / analysis,,
-MICS6,Latin America and Caribbean,Cuba,2019,Data processing / analysis,,
-MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,,
-MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,,
-MICS6,South Asia,Nepal,2019,Data processing / analysis,,
-MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,,
-MICS6,West and Central Africa,Sao Tome and Principe,2019,Data processing / analysis,,
-MICS6,Europe and Central Asia,Serbia,2019,Data processing / analysis,,
-MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Data processing / analysis,,
-MICS6,East Asia and the Pacific,Thailand,2019,Data processing / analysis,,
-MICS6,East Asia and the Pacific,Tonga,2019,Data processing / analysis,,
-MICS6,Europe and Central Asia,Turkmenistan,2019,Data processing / analysis,,
+MICS6,West and Central Africa,Chad,2019,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Cuba,2019,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,"",""
+MICS6,South Asia,Nepal,2019,Data processing / analysis,"",""
+MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,"",""
+MICS6,West and Central Africa,Sao Tome and Principe,2019,Data processing / analysis,"",""
+MICS6,Europe and Central Asia,Serbia,2019,Completed,"Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Completed,"Snapshots,Survey findings",Available
+MICS6,East Asia and the Pacific,Thailand,2019,Completed,"Key indicators,Snapshots,Survey findings",Available
+MICS6,East Asia and the Pacific,Tonga,2019,Completed,"Preliminary,Snapshots,Survey findings",Available
+MICS6,Europe and Central Asia,Turkmenistan,2019,Completed,"Snapshots,Survey findings",Available
 MICS6,Eastern and Southern Africa,Zimbabwe,2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Middle East and North Africa,Algeria,2018-2019,Data processing / analysis,,
-MICS6,West and Central Africa,Central African Republic,2018-2019,Data processing / analysis,,
-MICS6,West and Central Africa,Guinea-Bissau,2018-2019,Data processing / analysis,,
+MICS6,Middle East and North Africa,Algeria,2018-2019,Data processing / analysis,"",""
+MICS6,West and Central Africa,Central African Republic,2018-2019,Data processing / analysis,"",""
+MICS6,West and Central Africa,Guinea-Bissau,2018-2019,Completed,"Snapshots,Survey findings",Available
 MICS6,East Asia and the Pacific,Kiribati,2018-2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,"North Macedonia, Republic of",2018-2019,Data processing / analysis,,
-MICS6,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2018-2019,Data processing / analysis,,
-MICS6,South Asia,Pakistan (Sindh),2018-2019,Data processing / analysis,,
-MICS6,Latin America and Caribbean,Costa Rica,2018,Data processing / analysis,,
+MICS6,Europe and Central Asia,"North Macedonia, Republic of",2018-2019,Completed,Survey findings,Available
+MICS6,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2018-2019,Completed,Survey findings,Available
+MICS6,South Asia,Pakistan (Sindh),2018-2019,Data processing / analysis,"",""
+MICS6,Latin America and Caribbean,Costa Rica,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,West and Central Africa,Gambia,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Georgia,2018,Completed,Survey findings,Available
+MICS6,Europe and Central Asia,Georgia,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Middle East and North Africa,Iraq,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Europe and Central Asia,Kyrgyzstan,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Eastern and Southern Africa,Lesotho,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Eastern and Southern Africa,Madagascar,2018,Completed,Snapshots,Available
+MICS6,Eastern and Southern Africa,Madagascar,2018,Completed,"Executive summary,Snapshots,Survey findings",Available
 MICS6,East Asia and the Pacific,Mongolia,2018,Completed,"Infographic,Survey findings",Available
 MICS6,Europe and Central Asia,Montenegro,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Europe and Central Asia,Montenegro (Roma Settlements),2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Latin America and Caribbean,Suriname,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,Middle East and North Africa,Tunisia,2018,Completed,"Snapshots,Survey findings",Available
 MICS6,West and Central Africa,"Congo, Democratic Republic of the",2017-2018,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,Ghana,2017-2018,Completed,"Snapshots,Survey findings",Not yet available
+MICS6,West and Central Africa,Ghana,2017-2018,Completed,"Snapshots,Survey findings",Available
 MICS6,South Asia,Pakistan (Punjab),2017-2018,Completed,"Snapshots,Survey findings",Available
 MICS6,East Asia and the Pacific,"Korea, Democratic People's Republic of",2017,Completed,"Snapshots,Survey findings",Restricted
 MICS6,East Asia and the Pacific,Lao People's Democratic Republic,2017,Completed,Survey findings,Available
 MICS6,West and Central Africa,Sierra Leone,2017,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,Togo,2017,Completed,Survey findings,Not yet available
+MICS6,West and Central Africa,Togo,2017,Completed,Survey findings,Available
 MICS5,West and Central Africa,Nigeria,2016-2017,Completed,Final,Available
 MICS5,South Asia,Pakistan (Gilgit-Baltistan),2016-2017,Completed,"Final,Key findings",Available
 MICS5,South Asia,Pakistan (Khyber Pakhtunkhwa),2016-2017,Completed,Final,Available
@@ -77,7 +78,7 @@ MICS5,West and Central Africa,Guinea,2016,Completed,Final,Available
 MICS5,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2016,Completed,Final,Available
 MICS5,East Asia and the Pacific,Mongolia (Nalaikh District),2016,Completed,Final,Available
 MICS5,Latin America and Caribbean,Paraguay,2016,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Thailand (14 Provinces),2016,Completed,Final,Not yet available
+MICS5,East Asia and the Pacific,Thailand (14 Provinces),2016,Completed,Final,Available
 MICS5,Latin America and Caribbean,Belize,2015-2016,Completed,"Final,Key findings",Available
 MICS5,West and Central Africa,Senegal (Dakar City),2015-2016,Completed,"Final,Key findings",Available
 MICS5,East Asia and the Pacific,Thailand,2015-2016,Completed,"Final,Key findings",Available
