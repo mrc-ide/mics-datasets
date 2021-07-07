@@ -1,364 +1,366 @@
-round,region,country,year,status,reports,datasets
-MICS7,Europe and Central Asia,Azerbaijan,2022,Survey design,"",""
-MICS6,Latin America and Caribbean,El Salvador,2021,Survey design,"",""
-MICS6,East Asia and the Pacific,Federated States of Micronesia,2021,Survey design,"",""
-MICS6,East Asia and the Pacific,Fiji,2021,Survey design,"",""
-MICS6,Latin America and Caribbean,Jamaica,2021,Survey design,"",""
-MICS6,Europe and Central Asia,Kazakhstan,2021,Survey design,"",""
-MICS6,Middle East and North Africa,Lebanon,2021,Survey design,"",""
-MICS6,East Asia and the Pacific,Nauru,2021,Survey design,"",""
-MICS6,West and Central Africa,Nigeria,2021,Survey design,"",""
-MICS6,Latin America and Caribbean,Saint Lucia,2021,Survey design,"",""
-MICS6,Middle East and North Africa,Sudan,2021,Survey design,"",""
-MICS6,Latin America and Caribbean,Trinidad and Tobago,2021,Survey design,"",""
-MICS6,Europe and Central Asia,Uzbekistan,2021,Survey design,"",""
-MICS6,East Asia and the Pacific,Vanuatu,2021,Survey design,"",""
-MICS6,Middle East and North Africa,Yemen,2021,Survey design,"",""
-MICS6,Latin America and Caribbean,Nicaragua,2020-2021,Survey design,"",""
-MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020-2021,Data collection,"",""
-MICS6,East Asia and the Pacific,Viet Nam,2020-2021,Survey design,"",""
-MICS6,West and Central Africa,Benin,2020,Survey design,"",""
-MICS6,Eastern and Southern Africa,Eswatini,2020,Survey design,"",""
-MICS6,Latin America and Caribbean,Argentina,2019-2020,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Guyana,2019-2020,Data processing / analysis,"",""
-MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Data processing / analysis,"",""
-MICS6,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2019-2020,Data processing / analysis,"",""
-MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data processing / analysis,"",""
-MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,"",""
-MICS6,East Asia and the Pacific,Samoa,2019-2020,Data processing / analysis,Preliminary report,""
-MICS6,Middle East and North Africa,State of Palestine,2019-2020,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data processing / analysis,"",""
-MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data processing / analysis,"",""
-MICS6,South Asia,Bangladesh,2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Belarus,2019,Completed,Snapshots,Not yet available
-MICS6,West and Central Africa,Chad,2019,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Cuba,2019,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,"",""
-MICS6,South Asia,Nepal,2019,Data processing / analysis,"",""
-MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,"",""
-MICS6,West and Central Africa,Sao Tome and Principe,2019,Data processing / analysis,"",""
-MICS6,Europe and Central Asia,Serbia,2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Completed,"Snapshots,Survey findings",Available
-MICS6,East Asia and the Pacific,Thailand,2019,Completed,"Key indicators,Snapshots,Survey findings",Available
-MICS6,East Asia and the Pacific,Tonga,2019,Completed,"Preliminary,Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Turkmenistan,2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Eastern and Southern Africa,Zimbabwe,2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Middle East and North Africa,Algeria,2018-2019,Data processing / analysis,"",""
-MICS6,West and Central Africa,Central African Republic,2018-2019,Data processing / analysis,"",""
-MICS6,West and Central Africa,Guinea-Bissau,2018-2019,Completed,"Snapshots,Survey findings",Available
-MICS6,East Asia and the Pacific,Kiribati,2018-2019,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,"North Macedonia, Republic of",2018-2019,Completed,Survey findings,Available
-MICS6,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2018-2019,Completed,Survey findings,Available
-MICS6,South Asia,Pakistan (Sindh),2018-2019,Data processing / analysis,"",""
-MICS6,Latin America and Caribbean,Costa Rica,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,Gambia,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Georgia,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Middle East and North Africa,Iraq,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Kyrgyzstan,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Eastern and Southern Africa,Lesotho,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Eastern and Southern Africa,Madagascar,2018,Completed,"Executive summary,Snapshots,Survey findings",Available
-MICS6,East Asia and the Pacific,Mongolia,2018,Completed,"Infographic,Survey findings",Available
-MICS6,Europe and Central Asia,Montenegro,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Europe and Central Asia,Montenegro (Roma Settlements),2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Latin America and Caribbean,Suriname,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,Middle East and North Africa,Tunisia,2018,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,"Congo, Democratic Republic of the",2017-2018,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,Ghana,2017-2018,Completed,"Snapshots,Survey findings",Available
-MICS6,South Asia,Pakistan (Punjab),2017-2018,Completed,"Snapshots,Survey findings",Available
-MICS6,East Asia and the Pacific,"Korea, Democratic People's Republic of",2017,Completed,"Snapshots,Survey findings",Restricted
-MICS6,East Asia and the Pacific,Lao People's Democratic Republic,2017,Completed,Survey findings,Available
-MICS6,West and Central Africa,Sierra Leone,2017,Completed,"Snapshots,Survey findings",Available
-MICS6,West and Central Africa,Togo,2017,Completed,Survey findings,Available
-MICS5,West and Central Africa,Nigeria,2016-2017,Completed,Final,Available
-MICS5,South Asia,Pakistan (Gilgit-Baltistan),2016-2017,Completed,"Final,Key findings",Available
-MICS5,South Asia,Pakistan (Khyber Pakhtunkhwa),2016-2017,Completed,Final,Available
-MICS5,West and Central Africa,Côte d'Ivoire,2016,Completed,Final,Available
-MICS5,West and Central Africa,Guinea,2016,Completed,Final,Available
-MICS5,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2016,Completed,Final,Available
-MICS5,East Asia and the Pacific,Mongolia (Nalaikh District),2016,Completed,Final,Available
-MICS5,Latin America and Caribbean,Paraguay,2016,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Thailand (14 Provinces),2016,Completed,Final,Available
-MICS5,Latin America and Caribbean,Belize,2015-2016,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Senegal (Dakar City),2015-2016,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Thailand,2015-2016,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Thailand (Bangkok Small Community),2015-2016,Completed,Final,Available
-MICS5,Europe and Central Asia,Turkmenistan,2015-2016,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Kazakhstan,2015,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Mali,2015,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Mauritania,2015,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,Mexico,2015,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Congo,2014-2015,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Benin,2014,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Cameroon,2014,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,Cuba,2014,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,Dominican Republic,2014,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,El Salvador,2014,Completed,"Final,Key findings",Available
-MICS5,Eastern and Southern Africa,Eswatini,2014,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Guinea-Bissau,2014,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,Guyana,2014,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Kyrgyzstan,2014,Completed,"Final,Key findings",Available
-MICS5,South Asia,Nepal,2014,Completed,"Final,Key findings",Available
-MICS5,Middle East and North Africa,Oman,2014,Completed,"Final,Key findings",Restricted
-MICS5,South Asia,Pakistan (Punjab),2014,Completed,"Final,Key findings",Available
-MICS5,South Asia,Pakistan (Sindh),2014,Completed,"Final,Key findings",Available
-MICS5,West and Central Africa,Sao Tome and Principe,2014,Completed,"Biomarker,Final,Key findings",Available
-MICS5,Europe and Central Asia,Serbia,2014,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Serbia (Roma Settlements),2014,Completed,"Final,Key findings",Available
-MICS5,Middle East and North Africa,State of Palestine,2014,Completed,"Final,Key findings",Available
-MICS5,Middle East and North Africa,Sudan,2014,Completed,"Final,Key findings",Available
-MICS5,Eastern and Southern Africa,Zimbabwe,2014,Completed,"Final,Key findings",Available
-MICS5,Middle East and North Africa,Egypt (Sub-national),2013-2014,Completed,"Final,Key findings",Available
-MICS5,Eastern and Southern Africa,Kenya (Bungoma County),2013-2014,Completed,"Final,Key findings",Available
-MICS5,Eastern and Southern Africa,Kenya (Kakamega County),2013-2014,Completed,"Final,Key findings",Available
-MICS5,Eastern and Southern Africa,Kenya (Turkana County),2013-2014,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Kosovo under UNSC res. 1244,2013-2014,Completed,"Final,Key findings,Summary",Available
-MICS5,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2013-2014,Completed,"Final,Key findings,Summary",Available
-MICS5,Eastern and Southern Africa,Malawi,2013-2014,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Mongolia,2013-2014,Completed,"Final,Key findings",Available
-MICS5,East Asia and the Pacific,Viet Nam,2013-2014,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Montenegro,2013,Completed,"Final,Key findings",Available
-MICS5,Europe and Central Asia,Montenegro (Roma Settlements),2013,Completed,"Final,Key findings",Available
-MICS5,Latin America and Caribbean,Panama,2013,Completed,Key findings,Available
-MICS4,Middle East and North Africa,Algeria,2012-2013,Completed,Final,Available
-MICS5,South Asia,Bangladesh,2012-2013,Completed,"Final,Key findings",Available
-MICS4,East Asia and the Pacific,Thailand,2012-2013,Completed,"Final,Summary",Available
-MICS4,Latin America and Caribbean,Uruguay,2012-2013,Completed,"Final,Key findings",Available
-MICS4,Latin America and Caribbean,Barbados,2012,Completed,Final,Available
-MICS4,Europe and Central Asia,Belarus,2012,Completed,Final,Available
-MICS4,Eastern and Southern Africa,Madagascar (South),2012,Completed,Final,Available
-MICS4,Europe and Central Asia,"Moldova, Republic of",2012,Completed,"Final,Summary",Available
-MICS4,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2012,Completed,Final,Available
-MICS4,East Asia and the Pacific,Mongolia (Nalaikh District),2012,Completed,Final,Available
-MICS4,Middle East and North Africa,Qatar,2012,Completed,Final,Available
-MICS4,Latin America and Caribbean,Saint Lucia,2012,Completed,Final,Available
-MICS4,Europe and Central Asia,Ukraine,2012,Completed,"Final,Key findings",Available
-MICS4,Latin America and Caribbean,Argentina,2011-2012,Completed,Final,Available
-MICS4,Europe and Central Asia,Bosnia and Herzegovina,2011-2012,Completed,Final,Available
-MICS4,Europe and Central Asia,Bosnia and Herzegovina (Roma Settlements),2011-2012,Completed,Final,Available
-MICS4,East Asia and the Pacific,Lao People's Democratic Republic,2011-2012,Completed,Final,Available
-MICS4,Middle East and North Africa,Tunisia,2011-2012,Completed,"Final,Summary",Available
-MICS4,Latin America and Caribbean,Belize,2011,Completed,Final,Available
-MICS4,Latin America and Caribbean,Costa Rica,2011,Completed,Final,Available
-MICS4,West and Central Africa,Ghana,2011,Completed,"Final,Summary",Available
-MICS4,East Asia and the Pacific,Indonesia (Papua Selected Districts),2011,Completed,Final,Available
-MICS4,East Asia and the Pacific,Indonesia (West Papua Selected Districts),2011,Completed,Final,Available
-MICS4,Middle East and North Africa,Iraq,2011,Completed,Final,Available
-MICS4,Latin America and Caribbean,Jamaica,2011,Completed,Final,Available
-MICS4,Eastern and Southern Africa,Kenya (Nyanza Province),2011,Completed,Final,Available
-MICS4,Middle East and North Africa,Lebanon (Palestinians),2011,Completed,"Final,Preliminary",Available
-MICS4,West and Central Africa,Mauritania,2011,Completed,"Final,Summary",Available
-MICS4,West and Central Africa,Nigeria,2011,Completed,"Final,Summary",Available
-MICS4,Europe and Central Asia,"North Macedonia, Republic of",2011,Completed,Final,Available
-MICS4,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2011,Completed,Final,Available
-MICS4,South Asia,Pakistan (Punjab),2011,Completed,Final,Available
-MICS4,Eastern and Southern Africa,Somalia (Northeast Zone),2011,Completed,Final,Available
-MICS4,Eastern and Southern Africa,Somalia (Somaliland),2011,Completed,Final,Available
-MICS4,Latin America and Caribbean,Trinidad and Tobago,2011,Completed,Final,Available
-MICS4,South Asia,Afghanistan,2010-2011,Completed,Final,Available
-MICS4,Latin America and Caribbean,Cuba,2010-2011,Completed,Final,Available
-MICS4,West and Central Africa,Ghana (Accra),2010-2011,Completed,Final,Available
-MICS4,Europe and Central Asia,Kazakhstan,2010-2011,Completed,Final,Available
-MICS4,East Asia and the Pacific,Viet Nam,2010-2011,Completed,Final,Available
-MICS4,South Asia,Bhutan,2010,Completed,Final,Available
-MICS4,West and Central Africa,Central African Republic,2010,Completed,"Biomarker,Final,Summary",Available
-MICS4,West and Central Africa,Chad,2010,Completed,"Final,Summary",Available
-MICS4,West and Central Africa,"Congo, Democratic Republic of the",2010,Completed,"Final,Summary",Available
-MICS4,Eastern and Southern Africa,Eswatini,2010,Completed,Final,Available
-MICS4,West and Central Africa,Gambia,2010,Completed,Final,Available
-MICS4,West and Central Africa,Guinea-Bissau,2010,Completed,Final,Available
-MICS4,East Asia and the Pacific,Mongolia,2010,Completed,Final,Available
-MICS4,South Asia,Nepal (Mid- and Far-Western Regions),2010,Completed,Final,Available
-MICS4,South Asia,Pakistan (Balochistan),2010,Completed,Final,Available
-MICS4,Europe and Central Asia,Serbia,2010,Completed,Final,Available
-MICS4,Europe and Central Asia,Serbia (Roma Settlements),2010,Completed,Final,Available
-MICS4,West and Central Africa,Sierra Leone,2010,Completed,Final,Available
-MICS4,Eastern and Southern Africa,"South Sudan, Republic of",2010,Completed,Final,Available
-MICS4,Middle East and North Africa,State of Palestine,2010,Completed,Final,Available
-MICS4,Middle East and North Africa,Sudan,2010,Completed,"Final,Summary",Available
-MICS4,Latin America and Caribbean,Suriname,2010,Completed,Final,Available
-MICS4,West and Central Africa,Togo,2010,Completed,Final,Available
-MICS4,West and Central Africa,Mali,2009-2010,Completed,Final,Available
-MICS3,East Asia and the Pacific,"Myanmar, Republic of the Union of",2009-2010,Completed,Final,Not available
-MICS4,Eastern and Southern Africa,Kenya (Mombasa Informal Settlements),2009,Completed,Final,Available
-MICS4,East Asia and the Pacific,"Korea, Democratic People's Republic of",2009,Completed,Final,Restricted
-MICS3,Eastern and Southern Africa,Zimbabwe,2009,Completed,Final,Available
-MICS3,Eastern and Southern Africa,Kenya (Eastern Province),2008,Completed,Final,Not available
-MICS3,Eastern and Southern Africa,Mozambique,2008,Completed,Final,Available
-MICS3,West and Central Africa,Ghana (District),2007-2008,Completed,Final,Not available
-MICS3,East Asia and the Pacific,Vanuatu,2007-2008,Completed,Final,Available
-MICS3,West and Central Africa,Mauritania,2007,Completed,Final,Available
-MICS3,West and Central Africa,Nigeria,2007,Completed,Final,Available
-MICS3,Latin America and Caribbean,Guyana,2006-2007,Completed,Final,Available
-MICS3,Middle East and North Africa,Algeria,2006,Completed,Final,Not available
-MICS3,South Asia,Bangladesh,2006,Completed,Final,Available
-MICS3,Latin America and Caribbean,Belize,2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Bosnia and Herzegovina,2006,Completed,Final,Available
-MICS3,West and Central Africa,Burkina Faso,2006,Completed,Final,Available
-MICS3,West and Central Africa,Cameroon,2006,Completed,Final,Available
-MICS3,West and Central Africa,Central African Republic,2006,Completed,Final,Available
-MICS3,Latin America and Caribbean,Cuba,2006,Completed,Final,Available
-MICS3,West and Central Africa,Côte d'Ivoire,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Djibouti,2006,Completed,Final,Available
-MICS3,West and Central Africa,Ghana,2006,Completed,Final,Available
-MICS3,West and Central Africa,Guinea-Bissau,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Iraq,2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Kazakhstan,2006,Completed,Final,Available
-MICS3,East Asia and the Pacific,Lao People's Democratic Republic,2006,Completed,Final,Available
-MICS3,Eastern and Southern Africa,Malawi,2006,Completed,Final,Available
-MICS3,West and Central Africa,Sao Tome and Principe,2006,Completed,Final,Not available
-MICS3,Eastern and Southern Africa,Somalia,2006,Completed,Final,Available
-MICS3,Latin America and Caribbean,Suriname,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Syrian Arab Republic,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2006,Completed,Final,Not available
-MICS3,West and Central Africa,Togo,2006,Completed,Final,Available
-MICS3,Latin America and Caribbean,Trinidad and Tobago,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Tunisia,2006,Completed,Final,Not available
-MICS3,Europe and Central Asia,Turkmenistan,2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Uzbekistan,2006,Completed,Final,Available
-MICS3,East Asia and the Pacific,Viet Nam,2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Yemen,2006,Completed,Final,Available
-MICS3,West and Central Africa,Gambia,2005-2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Kyrgyzstan,2005-2006,Completed,Final,Available
-MICS3,Middle East and North Africa,Lebanon (Palestinians),2005-2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Montenegro,2005-2006,Completed,Final,Available
-MICS3,Europe and Central Asia,"North Macedonia, Republic of",2005-2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Serbia,2005-2006,Completed,Final,Available
-MICS3,West and Central Africa,Sierra Leone,2005-2006,Completed,Final,Available
-MICS3,East Asia and the Pacific,Thailand,2005-2006,Completed,Final,Available
-MICS3,Europe and Central Asia,Albania,2005,Completed,Final,Available
-MICS3,Europe and Central Asia,Belarus,2005,Completed,Final,Available
-MICS3,Eastern and Southern Africa,Burundi,2005,Completed,Final,Available
-MICS3,Europe and Central Asia,Georgia,2005,Completed,Final,Available
-MICS3,Latin America and Caribbean,Jamaica,2005,Completed,Final,Available
-MICS3,East Asia and the Pacific,Mongolia,2005,Completed,Final,Available
-MICS3,Europe and Central Asia,Tajikistan,2005,Completed,Final,Available
-MICS3,Europe and Central Asia,Ukraine,2005,Completed,Final,Available
-MICS2,South Asia,Afghanistan,2003,Completed,Final,Not available
-MICS2,Middle East and North Africa,Libya,2003,Completed,Preliminary,Not available
-MICS2,Eastern and Southern Africa,Angola,2001,Completed,Final,Available
-MICS2,West and Central Africa,"Congo, Democratic Republic of the",2001,Completed,Final,Available
-MICS2,Middle East and North Africa,Lebanon (Palestinians),2001,Completed,Final,Not available
-MICS2,South Asia,Maldives,2001,Completed,Final,Not available
-MICS2,South Asia,Afghanistan (Selected Regions of East),2000,Completed,Final,Not available
-MICS2,Europe and Central Asia,Albania,2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Algeria,2000,Completed,Final,Not available
-MICS2,Europe and Central Asia,Azerbaijan,2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Bahrain,2000,Completed,Not available,Not available
-MICS2,Latin America and Caribbean,"Bolivia, Plurinational State of",2000,Completed,Final,Available
-MICS2,Europe and Central Asia,Bosnia and Herzegovina,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Botswana,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Burundi,2000,Completed,Final,Available
-MICS2,West and Central Africa,Cameroon,2000,Completed,Final,Available
-MICS2,West and Central Africa,Central African Republic,2000,Completed,Final,Available
-MICS2,West and Central Africa,Chad,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Comoros,2000,Completed,Final,Available
-MICS2,Latin America and Caribbean,Cuba,2000,Completed,Final,Not available
-MICS2,West and Central Africa,Côte d'Ivoire,2000,Completed,Final,Available
-MICS2,Latin America and Caribbean,Dominican Republic,2000,Completed,Final,Available
-MICS2,West and Central Africa,Equatorial Guinea,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Eswatini,2000,Completed,Final,Available
-MICS2,West and Central Africa,Gambia,2000,Completed,Final,Available
-MICS2,West and Central Africa,Guinea-Bissau,2000,Completed,Final,Available
-MICS2,Latin America and Caribbean,Guyana,2000,Completed,Final,Available
-MICS2,South Asia,India,2000,Completed,Final,Not available
-MICS2,East Asia and the Pacific,Indonesia,2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Iraq,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Kenya,2000,Completed,Preliminary,Available
-MICS2,East Asia and the Pacific,"Korea, Democratic People's Republic of",2000,Completed,Final,Restricted
-MICS2,East Asia and the Pacific,Lao People's Democratic Republic,2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Lebanon,2000,Completed,Preliminary,Not available
-MICS2,Eastern and Southern Africa,Lesotho,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Madagascar,2000,Completed,Final,Available
-MICS2,Europe and Central Asia,"Moldova, Republic of",2000,Completed,Final,Available
-MICS2,East Asia and the Pacific,Mongolia,2000,Completed,Final,Available
-MICS2,East Asia and the Pacific,"Myanmar, Republic of the Union of",2000,Completed,Final,Available
-MICS2,West and Central Africa,Niger,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Rwanda,2000,Completed,Final,Available
-MICS2,West and Central Africa,Sao Tome and Principe,2000,Completed,Final,Available
-MICS2,West and Central Africa,Senegal,2000,Completed,Final,Available
-MICS2,West and Central Africa,Sierra Leone,2000,Completed,Final,Available
-MICS2,Eastern and Southern Africa,Somalia,2000,Completed,Final,Not available
-MICS2,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),2000,Completed,Final,Not available
-MICS2,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Syrian Arab Republic,2000,Completed,Preliminary,Not available
-MICS2,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2000,Completed,Final,Not available
-MICS2,Europe and Central Asia,Tajikistan,2000,Completed,Final,Available
-MICS2,West and Central Africa,Togo,2000,Completed,Final,Available
-MICS2,Latin America and Caribbean,Trinidad and Tobago,2000,Completed,Final,Available
-MICS2,Middle East and North Africa,Tunisia,2000,Completed,Final,Not available
-MICS2,Europe and Central Asia,Ukraine,2000,Completed,Final,Not available
-MICS2,Europe and Central Asia,Uzbekistan,2000,Completed,Final,Available
-MICS2,Latin America and Caribbean,"Venezuela, Bolivarian Republic of",2000,Completed,Final,Available
-MICS2,East Asia and the Pacific,Viet Nam,2000,Completed,Final,Available
-MICS2,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",2000,Completed,Final,Not available
-MICS2,Latin America and Caribbean,Suriname,1999-2000,Completed,Final,Available
-MICS2,Europe and Central Asia,Georgia,1999,Completed,Final,Not available
-MICS2,West and Central Africa,Nigeria,1999,Completed,Final,Not available
-MICS2,Europe and Central Asia,"North Macedonia, Republic of",1999,Completed,Final,Not available
-MICS2,East Asia and the Pacific,Philippines,1999,Completed,Final,Available
-MICS2,Middle East and North Africa,Sudan (South),1999,Completed,Final,Not available
-MICS2,Eastern and Southern Africa,Zambia,1999,Completed,Final,Available
-MICS1,East Asia and the Pacific,"Korea, Democratic People's Republic of",1998,Completed,Final,Restricted
-MICS1,South Asia,Afghanistan,1997,Completed,Final,Not available
-MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1997,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Somalia (Northeast Zone),1997,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Angola,1996,Completed,Final,Not available
-MICS1,Latin America and Caribbean,"Bolivia, Plurinational State of",1996,Completed,Final,Not available
-MICS1,West and Central Africa,Burkina Faso,1996,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Burundi,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Central African Republic,1996,Completed,Final,Not available
-MICS1,Europe and Central Asia,Croatia,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Côte d'Ivoire,1996,Completed,Final,Not available
-MICS1,Middle East and North Africa,Egypt,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Gabon,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Gambia,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Guinea,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Guinea-Bissau,1996,Completed,Final,Not available
-MICS1,East Asia and the Pacific,Indonesia,1996,Completed,Final,Not available
-MICS1,Middle East and North Africa,Iraq,1996,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Kenya (20 of 56 districts),1996,Completed,Final,Not available
-MICS1,East Asia and the Pacific,Lao People's Democratic Republic,1996,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Lesotho,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Mali,1996,Completed,Final,Not available
-MICS1,East Asia and the Pacific,Mongolia,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Niger,1996,Completed,Final,Not available
-MICS1,Latin America and Caribbean,Panama,1996,Completed,Final,Not available
-MICS1,East Asia and the Pacific,Philippines,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Sao Tome and Principe,1996,Completed,Final,Not available
-MICS1,West and Central Africa,Senegal,1996,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Somalia (Northwest Zone - Somaliland),1996,Completed,Final,Not available
-MICS1,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),1996,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,"Tanzania, United Republic of",1996,Completed,Final,Not available
-MICS1,West and Central Africa,Togo,1996,Completed,Final,Not available
-MICS1,East Asia and the Pacific,Viet Nam,1996,Completed,Final,Not available
-MICS1,Middle East and North Africa,Yemen,1996,Completed,Summary,Not available
-MICS1,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",1996,Completed,Final,Not available
-MICS1,South Asia,Nepal (Six Cycles),1995-1997,Completed,Final,Not available
-MICS1,South Asia,India,1995-1996,Completed,Summary,Not available
-MICS1,West and Central Africa,Mauritania,1995-1996,Completed,Final,Not available
-MICS1,Middle East and North Africa,Algeria,1995,Completed,Final,Not available
-MICS1,South Asia,Bangladesh,1995,Completed,Final,Not available
-MICS1,East Asia and the Pacific,China,1995,Completed,Final,Not available
-MICS1,West and Central Africa,"Congo, Democratic Republic of the",1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Eswatini,1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Ethiopia,1995,Completed,Final,Not available
-MICS1,West and Central Africa,Ghana,1995,Completed,Summary,Not available
-MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1995,Completed,Final,Not available
-MICS1,Europe and Central Asia,Kyrgyzstan,1995,Completed,Final,Not available
-MICS1,West and Central Africa,Liberia,1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Madagascar,1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Malawi,1995,Completed,Final,Not available
-MICS1,South Asia,Maldives,1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Mozambique,1995,Completed,Final,Not available
-MICS1,East Asia and the Pacific,"Myanmar, Republic of the Union of",1995,Completed,Final,Not available
-MICS1,West and Central Africa,Nigeria,1995,Completed,Final,Not available
-MICS1,Middle East and North Africa,Oman,1995,Completed,Final,Not available
-MICS1,South Asia,Pakistan,1995,Completed,Final,Not available
-MICS1,West and Central Africa,Sierra Leone,1995,Completed,Final,Not available
-MICS1,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",1995,Completed,Final,Not available
-MICS1,Middle East and North Africa,Syrian Arab Republic,1995,Completed,Final,Not available
-MICS1,Europe and Central Asia,Turkey,1995,Completed,Preliminary,Not available
-MICS1,Europe and Central Asia,Turkmenistan,1995,Completed,Final,Not available
-MICS1,Eastern and Southern Africa,Zambia,1995,Completed,Final,Not available
-MICS1,South Asia,Bangladesh,1993,Completed,Final,Not available
+round,region,country,year,status,reports,datasets,filename,url
+MICS7,Europe and Central Asia,Kazakhstan,2023,Survey design,,,,
+MICS7,Europe and Central Asia,Azerbaijan,2022,Survey design,,,,
+MICS7,East Asia and the Pacific,Lao People's Democratic Republic,2022,Survey design,,,,
+MICS6,Middle East and North Africa,Lebanon,2022,Survey design,,,,
+MICS6,Latin America and Caribbean,Nicaragua,2022,Survey design,,,,
+MICS6,Latin America and Caribbean,Saint Lucia,2022,Survey design,,,,
+MICS7,East Asia and the Pacific,Thailand,2022,Survey design,,,,
+MICS6,West and Central Africa,Benin,2021,Survey design,,,,
+MICS6,Eastern and Southern Africa,Comoros,2021,Survey design,,,,
+MICS6,Eastern and Southern Africa,Eswatini,2021,Survey design,,,,
+MICS6,East Asia and the Pacific,Federated States of Micronesia,2021,Survey design,,,,
+MICS6,East Asia and the Pacific,Fiji,2021,Data processing / analysis,,,,
+MICS6,East Asia and the Pacific,Nauru,2021,Survey design,,,,
+MICS6,West and Central Africa,Nigeria,2021,Survey design,,,,
+MICS6,Middle East and North Africa,Qatar,2021,Survey Design,,,,
+MICS6,Middle East and North Africa,Sudan,2021,Survey design,,,,
+MICS6,Latin America and Caribbean,Trinidad and Tobago,2021,Survey design,,,,
+MICS6,Europe and Central Asia,Uzbekistan,2021,Data collection,,,,
+MICS6,East Asia and the Pacific,Vanuatu,2021,Survey design,,,,
+MICS6,Middle East and North Africa,Yemen,2021,Survey design,,,,
+MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020-2021,Data processing / analysis,,,,
+MICS6,East Asia and the Pacific,Viet Nam,2020-2021,Data processing / analysis,,,,
+MICS6,Latin America and Caribbean,Argentina,2019-2020,Data processing / analysis,,,,
+MICS6,Latin America and Caribbean,Guyana,2019-2020,Completed,,Available,Guyana MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Guyana/2019-2020/Datasets/Guyana%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Completed,"Snapshots,Survey findings",Available,Kosovo (UNSCR 1244) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244/2019-2020/Datasets/Kosovo%20%28UNSCR%201244%29%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2019-2020,Completed,"Snapshots,Survey findings",Available,"Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip",https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244%20%28Roma%2C%20Ashkali%2C%20and%20Egyptian%20Communities%29/2019-2020/Datasets/Kosovo%20%28UNSCR%201244%29%20%28Roma%2C%20Ashkali%20and%20Egyptian%20Communities%29%20MICS6%20Datasets.zip
+MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data processing / analysis,,,,
+MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,,,,
+MICS6,East Asia and the Pacific,Samoa,2019-2020,Completed,Preliminary report,Not yet available,,
+MICS6,Middle East and North Africa,State of Palestine,2019-2020,Completed,"Snapshots,Survey findings",Available,State of Palestine MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/State%20of%20Palestine/2019-2020/Datasets/State%20of%20Palestine%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data processing / analysis,,,,
+MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data processing / analysis,,,,
+MICS6,South Asia,Bangladesh,2019,Completed,"Snapshots,Survey findings",Available,Bangladesh MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Bangladesh/2019/Datasets/Bangladesh%20MICS6%20SPSS%20Datasets.zip
+MICS6,Europe and Central Asia,Belarus,2019,Completed,"Snapshots,Survey findings",Available,Belarus MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Belarus/2019/Datasets/Belarus%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Chad,2019,Completed,Survey findings,Available,Chad MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Chad/2019/Datasets/Chad%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Cuba,2019,Completed,Survey findings,Available,Cuba MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Cuba/2019/Datasets/Cuba%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,,,,
+MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,,,,
+MICS6,South Asia,Nepal,2019,Completed,"Snapshots,Survey findings",Available,Nepal MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Nepal/2019/Datasets/Nepal%20MICS6%20Datasets.zip
+MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,,,,
+MICS6,West and Central Africa,Sao Tome and Principe,2019,Completed,Survey findings,Available,Sao Tome and Principe MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Sao%20Tome%20and%20Principe/2019/Datasets/Sao%20Tome%20and%20Principe%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Serbia,2019,Completed,"Snapshots,Survey findings",Available,Serbia MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Serbia/2019/Datasets/Serbia%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Completed,"Snapshots,Survey findings",Available,Serbia (Roma Settlements) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Serbia%20%28Roma%20Settlements%29/2019/Datasets/Serbia%20%28Roma%20Settlements%29%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,Thailand,2019,Completed,"Key indicators,Snapshots,Survey findings",Available,Thailand MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Thailand/2019/Datasets/Thailand%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,Tonga,2019,Completed,"Preliminary,Snapshots,Survey findings",Available,Tonga MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Tonga/2019/Datasets/Tonga%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Turkmenistan,2019,Completed,"Snapshots,Survey findings",Available,Turkmenistan MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Turkmenistan/2019/Datasets/Turkmenistan%20MICS6%20SPSS%20Datasets.zip
+MICS6,Eastern and Southern Africa,Zimbabwe,2019,Completed,"Snapshots,Survey findings",Available,Zimbabwe MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Eastern%20and%20Southern%20Africa/Zimbabwe/2019/Datasets/Zimbabwe%20MICS6%20SPSS%20Datasets.zip
+MICS6,Middle East and North Africa,Algeria,2018-2019,Completed,"Snapshots,Survey findings",Available,Algeria MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/Algeria/2018-2019/Datasets/Algeria%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Central African Republic,2018-2019,Completed,"Snapshots,Survey findings",Available,Central African Republic MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Central%20African%20Republic/2018-2019/Datasets/Central%20African%20Republic%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Guinea-Bissau,2018-2019,Completed,"Snapshots,Survey findings",Available,Guinea Bissau MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Guinea-Bissau/2018-2019/Datasets/Guinea%20Bissau%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,Kiribati,2018-2019,Completed,"Snapshots,Survey findings",Available,Kiribati MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Kiribati/2018-2019/Datasets/Kiribati%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,"North Macedonia, Republic of",2018-2019,Completed,"Snapshots,Survey findings",Available,Republic of North Macedonia MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/North%20Macedonia%2C%20Republic%20of/2018-2019/Datasets/Republic%20of%20North%20Macedonia%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2018-2019,Completed,"Snapshots,Survey findings",Available,Republic of North Macedonia (Roma Settlements) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/North%20Macedonia%2C%20Republic%20of%20%28Roma%20Settlements%29/2018-2019/Datasets/Republic%20of%20North%20Macedonia%20%28Roma%20Settlements%29%20MICS6%20Datasets.zip
+MICS6,South Asia,Pakistan (Sindh),2018-2019,Completed,"Snapshots,Survey findings",Available,Pakistan Sindh MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Pakistan%20%28Sindh%29/2018-2019/Datasets/Pakistan%20Sindh%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Costa Rica,2018,Completed,"Snapshots,Survey findings",Available,Costa Rica MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Costa%20Rica/2018/Datasets/Costa%20Rica%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Gambia,2018,Completed,"Snapshots,Survey findings",Available,The-Gambia-MICS6-Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Gambia/2018/Datasets/The-Gambia-MICS6-Datasets.zip
+MICS6,Europe and Central Asia,Georgia,2018,Completed,"Snapshots,Survey findings",Available,Georgia MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Georgia/2018/Datasets/Georgia%20MICS6%20SPSS%20Datasets.zip
+MICS6,Middle East and North Africa,Iraq,2018,Completed,"Snapshots,Survey findings",Available,Iraq MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/Iraq/2018/Datasets/Iraq%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Kyrgyzstan,2018,Completed,"Snapshots,Survey findings",Available,Kyrgyz Republic MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Kyrgyzstan/2018/Datasets/Kyrgyz%20Republic%20MICS6%20Datasets.zip
+MICS6,Eastern and Southern Africa,Lesotho,2018,Completed,"Snapshots,Survey findings",Available,Lesotho_MICS6_datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Eastern%20and%20Southern%20Africa/Lesotho/2018/Datasets/Lesotho_MICS6_datasets.zip
+MICS6,Eastern and Southern Africa,Madagascar,2018,Completed,"Executive summary,Snapshots,Survey findings",Available,Madagascar MICS6 SPSS dataset.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Eastern%20and%20Southern%20Africa/Madagascar/2018/Datasets/Madagascar%20MICS6%20SPSS%20dataset.zip
+MICS6,East Asia and the Pacific,Mongolia,2018,Completed,"Infographic,Survey findings",Available,Mongolia MICS 2018 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Mongolia/2018/Datasets/Mongolia%20MICS%202018%20SPSS%20Datasets.zip
+MICS6,Europe and Central Asia,Montenegro,2018,Completed,"Snapshots,Survey findings",Available,Montenegro MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Montenegro/2018/Datasets/Montenegro%20MICS6%20Datasets.zip
+MICS6,Europe and Central Asia,Montenegro (Roma Settlements),2018,Completed,"Snapshots,Survey findings",Available,Montenegro (Roma Settlements) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Montenegro%20%28Roma%20Settlements%29/2018/Datasets/Montenegro%20%28Roma%20Settlements%29%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Suriname,2018,Completed,"Snapshots,Survey findings",Available,Suriname MICS6 SPSS Datafiles.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Suriname/2018/Datasets/Suriname%20MICS6%20SPSS%20Datafiles.zip
+MICS6,Middle East and North Africa,Tunisia,2018,Completed,"Snapshots,Survey findings",Available,Tunisia MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/Tunisia/2018/Datasets/Tunisia%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,"Congo, Democratic Republic of the",2017-2018,Completed,"Snapshots,Survey findings",Available,DRCongo MICS6 SPSS Datafiles.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Congo%2C%20Democratic%20Republic%20of%20the/2017-2018/Datasets/DRCongo%20MICS6%20SPSS%20Datafiles.zip
+MICS6,West and Central Africa,Ghana,2017-2018,Completed,"Snapshots,Survey findings",Available,Ghana MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Ghana/2017-2018/Datasets/Ghana%20MICS6%20SPSS%20Datasets.zip
+MICS6,South Asia,Pakistan (Punjab),2017-2018,Completed,"Snapshots,Survey findings",Available,Pakistan Punjab MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Pakistan%20%28Punjab%29/2017-2018/Datasets/Pakistan%20Punjab%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,"Korea, Democratic People's Republic of",2017,Completed,"Snapshots,Survey findings",Restricted,,
+MICS6,East Asia and the Pacific,Lao People's Democratic Republic,2017,Completed,Survey findings,Available,Lao PDR MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Lao%20People%27s%20Democratic%20Republic/2017/Datasets/Lao%20PDR%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Sierra Leone,2017,Completed,"Snapshots,Survey findings",Available,Sierra Leone MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Sierra%20Leone/2017/Datasets/Sierra%20Leone%20MICS6%20Datasets.zip
+MICS6,West and Central Africa,Togo,2017,Completed,Survey findings,Available,Togo MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Togo/2017/Datasets/Togo%20MICS6%20SPSS%20Datasets.zip
+MICS5,West and Central Africa,Nigeria,2016-2017,Completed,Final,Available,Nigeria MICS5 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Nigeria/2016-2017/Datasets/Nigeria%20MICS5%20Datasets.zip
+MICS5,South Asia,Pakistan (Gilgit-Baltistan),2016-2017,Completed,"Final,Key findings",Available,Pakistan (Gilgit Baltistan)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Pakistan%20%28Gilgit-Baltistan%29/2016-2017/Datasets/Pakistan%20%28Gilgit%20Baltistan%29_MICS5_Datasets.zip
+MICS5,South Asia,Pakistan (Khyber Pakhtunkhwa),2016-2017,Completed,Final,Available,Pakistan_(Khyber_Pakhtunkhwa)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Pakistan%20%28Khyber%20Pakhtunkhwa%29/2016-2017/Datasets/Pakistan_%28Khyber_Pakhtunkhwa%29_MICS5_Datasets.zip
+MICS5,West and Central Africa,Côte d'Ivoire,2016,Completed,Final,Available,Côte d'Ivoire_MICS5Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2016/Datasets/C%C3%B4te%20d%27Ivoire_MICS5Datasets.zip
+MICS5,West and Central Africa,Guinea,2016,Completed,Final,Available,Guinea_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Guinea/2016/Datasets/Guinea_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2016,Completed,Final,Available,Mongolia (Khuvsgul Aimag)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Mongolia%20%28Khuvsgul%20Aimag%29/2016/Datasets/Mongolia%20%28Khuvsgul%20Aimag%29_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Mongolia (Nalaikh District),2016,Completed,Final,Available,Mongolia (Nalaikh District)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Mongolia%20%28Nalaikh%20District%29/2016/Datasets/Mongolia%20%28Nalaikh%20District%29_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,Paraguay,2016,Completed,"Final,Key findings",Available,Paraguay_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Paraguay/2016/Datasets/Paraguay_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Thailand (14 Provinces),2016,Completed,Final,Available,Thailand_14_Provinces_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Thailand%20%2814%20Provinces%29/2016/Datasets/Thailand_14_Provinces_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,Belize,2015-2016,Completed,"Final,Key findings",Available,Belize_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Belize/2015-2016/Datasets/Belize_MICS5_Datasets.zip
+MICS5,West and Central Africa,Senegal (Dakar City),2015-2016,Completed,"Final,Key findings",Available,Senegal (Dakar)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Senegal%20%28Dakar%20City%29/2015-2016/Datasets/Senegal%20%28Dakar%29_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Thailand,2015-2016,Completed,"Final,Key findings",Available,Thailand_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Thailand/2015-2016/Datasets/Thailand_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Thailand (Bangkok Small Community),2015-2016,Completed,Final,Available,Thailand Bangkok_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Thailand%20%28Bangkok%20Small%20Community%29/2015-2016/Datasets/Thailand%20Bangkok_MICS5_Datasets.zip
+MICS5,Europe and Central Asia,Turkmenistan,2015-2016,Completed,"Final,Key findings",Available,Turkmenistan_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Turkmenistan/2015-2016/Datasets/Turkmenistan_MICS5_Datasets.zip
+MICS5,Europe and Central Asia,Kazakhstan,2015,Completed,"Final,Key findings",Available,Kazakhstan_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Kazakhstan/2015/Datasets/Kazakhstan_MICS5_Datasets.zip
+MICS5,West and Central Africa,Mali,2015,Completed,"Final,Key findings",Available,Mali_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Mali/2015/Datasets/Mali_MICS5_Datasets.zip
+MICS5,West and Central Africa,Mauritania,2015,Completed,"Final,Key findings",Available,Mauritania_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Mauritania/2015/Datasets/Mauritania_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,Mexico,2015,Completed,"Final,Key findings",Available,Mexico_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Mexico/2015/Datasets/Mexico_MICS5_Datasets.zip
+MICS5,West and Central Africa,Congo,2014-2015,Completed,"Final,Key findings",Available,Congo_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Congo/2014-2015/Datasets/Congo_MICS5_Datasets.zip
+MICS5,West and Central Africa,Benin,2014,Completed,"Final,Key findings",Available,Benin_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Benin/2014/Datasets/Benin_MICS5_Datasets.zip
+MICS5,West and Central Africa,Cameroon,2014,Completed,"Final,Key findings",Available,Cameroon_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Cameroon/2014/Datasets/Cameroon_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,Cuba,2014,Completed,"Final,Key findings",Available,Cuba 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Cuba/2014/Datasets/Cuba%202014%20MICS_Datasets.zip
+MICS5,Latin America and Caribbean,Dominican Republic,2014,Completed,"Final,Key findings",Available,Dominican Republic_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Dominican%20Republic/2014/Datasets/Dominican%20Republic_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,El Salvador,2014,Completed,"Final,Key findings",Available,El Salvador_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/El%20Salvador/2014/Datasets/El%20Salvador_MICS5_Datasets.zip
+MICS5,Eastern and Southern Africa,Eswatini,2014,Completed,"Final,Key findings",Available,Swaziland_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Eswatini/2014/Datasets/Swaziland_MICS5_Datasets.zip
+MICS5,West and Central Africa,Guinea-Bissau,2014,Completed,"Final,Key findings",Available,Guinea Bissau_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Guinea-Bissau/2014/Datasets/Guinea%20Bissau_MICS5_Datasets.zip
+MICS5,Latin America and Caribbean,Guyana,2014,Completed,"Final,Key findings",Available,Guyana_MICS 2014_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Guyana/2014/Datasets/Guyana_MICS%202014_Datasets.zip
+MICS5,Europe and Central Asia,Kyrgyzstan,2014,Completed,"Final,Key findings",Available,Kyrgyzstan 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Kyrgyzstan/2014/Datasets/Kyrgyzstan%202014%20MICS_Datasets.zip
+MICS5,South Asia,Nepal,2014,Completed,"Final,Key findings",Available,Nepal 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Nepal/2014/Datasets/Nepal%202014%20MICS_Datasets.zip
+MICS5,Middle East and North Africa,Oman,2014,Completed,"Final,Key findings",Restricted,,
+MICS5,South Asia,Pakistan (Punjab),2014,Completed,"Final,Key findings",Available,Pakistan (Punjab)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Pakistan%20%28Punjab%29/2014/Datasets/Pakistan%20%28Punjab%29_MICS5_Datasets.zip
+MICS5,South Asia,Pakistan (Sindh),2014,Completed,"Final,Key findings",Available,Pakistan (Sindh)_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Pakistan%20%28Sindh%29/2014/Datasets/Pakistan%20%28Sindh%29_MICS5_Datasets.zip
+MICS5,West and Central Africa,Sao Tome and Principe,2014,Completed,"Biomarker,Final,Key findings",Available,Sao Tome and Principe 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/West%20and%20Central%20Africa/Sao%20Tome%20and%20Principe/2014/Datasets/Sao%20Tome%20and%20Principe%202014%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,Serbia,2014,Completed,"Final,Key findings",Available,Serbia 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Serbia/2014/Datasets/Serbia%202014%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,Serbia (Roma Settlements),2014,Completed,"Final,Key findings",Available,Serbia (Roma Settlements) 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Serbia%20%28Roma%20Settlements%29/2014/Datasets/Serbia%20%28Roma%20Settlements%29%202014%20MICS_Datasets.zip
+MICS5,Middle East and North Africa,State of Palestine,2014,Completed,"Final,Key findings",Available,State of Palestine 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Middle%20East%20and%20North%20Africa/State%20of%20Palestine/2014/Datasets/State%20of%20Palestine%202014%20MICS_Datasets.zip
+MICS5,Middle East and North Africa,Sudan,2014,Completed,"Final,Key findings",Available,Sudan_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Middle%20East%20and%20North%20Africa/Sudan/2014/Datasets/Sudan_MICS5_Datasets.zip
+MICS5,Eastern and Southern Africa,Zimbabwe,2014,Completed,"Final,Key findings",Available,Zimbabwe 2014 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Zimbabwe/2014/Datasets/Zimbabwe%202014%20MICS_Datasets.zip
+MICS5,Middle East and North Africa,Egypt (Sub-national),2013-2014,Completed,"Final,Key findings",Available,Egypt (Sub-national) 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Middle%20East%20and%20North%20Africa/Egypt%20%28Sub-national%29/2013-2014/Datasets/Egypt%20%28Sub-national%29%202013-14%20MICS_Datasets.zip
+MICS5,Eastern and Southern Africa,Kenya (Bungoma County),2013-2014,Completed,"Final,Key findings",Available,Kenya (Bungoma County) 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Kenya%20%28Bungoma%20County%29/2013-2014/Datasets/Kenya%20%28Bungoma%20County%29%202013-14%20MICS_Datasets.zip
+MICS5,Eastern and Southern Africa,Kenya (Kakamega County),2013-2014,Completed,"Final,Key findings",Available,Kenya (Kakamega County) 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Kenya%20%28Kakamega%20County%29/2013-2014/Datasets/Kenya%20%28Kakamega%20County%29%202013-14%20MICS_Datasets.zip
+MICS5,Eastern and Southern Africa,Kenya (Turkana County),2013-2014,Completed,"Final,Key findings",Available,Kenya (Turkana County) 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Kenya%20%28Turkana%20County%29/2013-2014/Datasets/Kenya%20%28Turkana%20County%29%202013-14%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,Kosovo under UNSC res. 1244,2013-2014,Completed,"Final,Key findings,Summary",Available,Kosovo (UNSCR 1244) 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244/2013-2014/Datasets/Kosovo%20%28UNSCR%201244%29%202013-14%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2013-2014,Completed,"Final,Key findings,Summary",Available,"Kosovo (UNSCR 1244) (Roma, Ashkali, and Egyptian Communities) 2013-14 MICS_Datasets.zip",https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244%20%28Roma%2C%20Ashkali%2C%20and%20Egyptian%20Communities%29/2013-2014/Datasets/Kosovo%20%28UNSCR%201244%29%20%28Roma%2C%20Ashkali%2C%20and%20Egyptian%20Communities%29%202013-14%20MICS_Datasets.zip
+MICS5,Eastern and Southern Africa,Malawi,2013-2014,Completed,"Final,Key findings",Available,Malawi 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Eastern%20and%20Southern%20Africa/Malawi/2013-2014/Datasets/Malawi%202013-14%20MICS_Datasets.zip
+MICS5,East Asia and the Pacific,Mongolia,2013-2014,Completed,"Final,Key findings",Available,Mongolia_MICS5_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Mongolia/2013-2014/Datasets/Mongolia_MICS5_Datasets.zip
+MICS5,East Asia and the Pacific,Viet Nam,2013-2014,Completed,"Final,Key findings",Available,Viet Nam 2013-14 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/East%20Asia%20and%20the%20Pacific/Viet%20Nam/2013-2014/Datasets/Viet%20Nam%202013-14%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,Montenegro,2013,Completed,"Final,Key findings",Available,Montenegro 2013 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Montenegro/2013/Datasets/Montenegro%202013%20MICS_Datasets.zip
+MICS5,Europe and Central Asia,Montenegro (Roma Settlements),2013,Completed,"Final,Key findings",Available,Montenegro (Roma Settlements) 2013 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Europe%20and%20Central%20Asia/Montenegro%20%28Roma%20Settlements%29/2013/Datasets/Montenegro%20%28Roma%20Settlements%29%202013%20MICS_Datasets.zip
+MICS5,Latin America and Caribbean,Panama,2013,Completed,Key findings,Available,Panama 2013 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/Latin%20America%20and%20Caribbean/Panama/2013/Datasets/Panama%202013%20MICS_Datasets.zip
+MICS4,Middle East and North Africa,Algeria,2012-2013,Completed,Final,Available,Algeria_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Algeria/2012-2013/Datasets/Algeria_MICS4_Datasets.zip
+MICS5,South Asia,Bangladesh,2012-2013,Completed,"Final,Key findings",Available,Bangladesh 2012-13 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS5/South%20Asia/Bangladesh/2012-2013/Datasets/Bangladesh%202012-13%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Thailand,2012-2013,Completed,"Final,Summary",Available,Thailand_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Thailand/2012-2013/Datasets/Thailand_MICS4_Datasets.zip
+MICS4,Latin America and Caribbean,Uruguay,2012-2013,Completed,"Final,Key findings",Available,Uruguay 2012-13_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Uruguay/2012-2013/Datasets/Uruguay%202012-13_Datasets.zip
+MICS4,Latin America and Caribbean,Barbados,2012,Completed,Final,Available,Barbados 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Barbados/2012/Datasets/Barbados%202012%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Belarus,2012,Completed,Final,Available,Belarus 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Belarus/2012/Datasets/Belarus%202012%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,Madagascar (South),2012,Completed,Final,Available,Madagascar (South) 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Madagascar%20%28South%29/2012/Datasets/Madagascar%20%28South%29%202012%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,"Moldova, Republic of",2012,Completed,"Final,Summary",Available,Moldova 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Moldova%2C%20Republic%20of/2012/Datasets/Moldova%202012%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Mongolia (Khuvsgul Aimag),2012,Completed,Final,Available,Mongolia (Khuvsgul Aimag) 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Mongolia%20%28Khuvsgul%20Aimag%29/2012/Datasets/Mongolia%20%28Khuvsgul%20Aimag%29%202012%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Mongolia (Nalaikh District),2012,Completed,Final,Available,Mongolia (Nalaikh District)_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Mongolia%20%28Nalaikh%20District%29/2012/Datasets/Mongolia%20%28Nalaikh%20District%29_MICS4_Datasets.zip
+MICS4,Middle East and North Africa,Qatar,2012,Completed,Final,Available,Qatar_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Qatar/2012/Datasets/Qatar_MICS4_Datasets.zip
+MICS4,Latin America and Caribbean,Saint Lucia,2012,Completed,Final,Available,Saint Lucia 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Saint%20Lucia/2012/Datasets/Saint%20Lucia%202012%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Ukraine,2012,Completed,"Final,Key findings",Available,Ukraine 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Ukraine/2012/Datasets/Ukraine%202012%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Argentina,2011-2012,Completed,Final,Available,Argentina 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Argentina/2011-2012/Datasets/Argentina%202012%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Bosnia and Herzegovina,2011-2012,Completed,Final,Available,Bosnia and Herzegovina 2012 MICS _Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Bosnia%20and%20Herzegovina/2011-2012/Datasets/Bosnia%20and%20Herzegovina%202012%20MICS%20_Datasets.zip
+MICS4,Europe and Central Asia,Bosnia and Herzegovina (Roma Settlements),2011-2012,Completed,Final,Available,Bosnia and Herzegovina (Roma Settlements) 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Bosnia%20and%20Herzegovina%20%28Roma%20Settlements%29/2011-2012/Datasets/Bosnia%20and%20Herzegovina%20%28Roma%20Settlements%29%202012%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Lao People's Democratic Republic,2011-2012,Completed,Final,Available,Lao 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Lao%20People%27s%20Democratic%20Republic/2011-2012/Datasets/Lao%202012%20MICS_Datasets.zip
+MICS4,Middle East and North Africa,Tunisia,2011-2012,Completed,"Final,Summary",Available,Tunisia 2012 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Tunisia/2011-2012/Datasets/Tunisia%202012%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Belize,2011,Completed,Final,Available,Belize 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Belize/2011/Datasets/Belize%202011%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Costa Rica,2011,Completed,Final,Available,Costa Rica 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Costa%20Rica/2011/Datasets/Costa%20Rica%202011%20MICS_Datasets.zip
+MICS4,West and Central Africa,Ghana,2011,Completed,"Final,Summary",Available,Ghana 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Ghana/2011/Datasets/Ghana%202011%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Indonesia (Papua Selected Districts),2011,Completed,Final,Available,Indonesia (Selected Districts of Papua) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Indonesia%20%28Papua%20Selected%20Districts%29/2011/Datasets/Indonesia%20%28Selected%20Districts%20of%20Papua%29%202011%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Indonesia (West Papua Selected Districts),2011,Completed,Final,Available,Indonesia (Selected Districts of West Papua) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Indonesia%20%28West%20Papua%20Selected%20Districts%29/2011/Datasets/Indonesia%20%28Selected%20Districts%20of%20West%20Papua%29%202011%20MICS_Datasets.zip
+MICS4,Middle East and North Africa,Iraq,2011,Completed,Final,Available,Iraq 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Iraq/2011/Datasets/Iraq%202011%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Jamaica,2011,Completed,Final,Available,Jamaica 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Jamaica/2011/Datasets/Jamaica%202011%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,Kenya (Nyanza Province),2011,Completed,Final,Available,Kenya (Nyanza Province)_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Kenya%20%28Nyanza%20Province%29/2011/Datasets/Kenya%20%28Nyanza%20Province%29_MICS4_Datasets.zip
+MICS4,Middle East and North Africa,Lebanon (Palestinians),2011,Completed,"Final,Preliminary",Available,Lebanon (Palestinians) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Lebanon%20%28Palestinians%29/2011/Datasets/Lebanon%20%28Palestinians%29%202011%20MICS_Datasets.zip
+MICS4,West and Central Africa,Mauritania,2011,Completed,"Final,Summary",Available,Mauritania_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Mauritania/2011/Datasets/Mauritania_MICS4_Datasets.zip
+MICS4,West and Central Africa,Nigeria,2011,Completed,"Final,Summary",Available,Nigeria 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Nigeria/2011/Datasets/Nigeria%202011%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,"North Macedonia, Republic of",2011,Completed,Final,Available,Macedonia 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/North%20Macedonia%2C%20Republic%20of/2011/Datasets/Macedonia%202011%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,"North Macedonia, Republic of (Roma Settlements)",2011,Completed,Final,Available,Macedonia (Roma Settlements) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/North%20Macedonia%2C%20Republic%20of%20%28Roma%20Settlements%29/2011/Datasets/Macedonia%20%28Roma%20Settlements%29%202011%20MICS_Datasets.zip
+MICS4,South Asia,Pakistan (Punjab),2011,Completed,Final,Available,Pakistan (Punjab) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/South%20Asia/Pakistan%20%28Punjab%29/2011/Datasets/Pakistan%20%28Punjab%29%202011%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,Somalia (Northeast Zone),2011,Completed,Final,Available,Somalia (Northeast Zone) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Somalia%20%28Northeast%20Zone%29/2011/Datasets/Somalia%20%28Northeast%20Zone%29%202011%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,Somalia (Somaliland),2011,Completed,Final,Available,Somalia (Somaliland) 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Somalia%20%28Somaliland%29/2011/Datasets/Somalia%20%28Somaliland%29%202011%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Trinidad and Tobago,2011,Completed,Final,Available,Trinidad and Tobago_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Trinidad%20and%20Tobago/2011/Datasets/Trinidad%20and%20Tobago_MICS4_Datasets.zip
+MICS4,South Asia,Afghanistan,2010-2011,Completed,Final,Available,Afghanistan 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/South%20Asia/Afghanistan/2010-2011/Datasets/Afghanistan%202011%20MICS_Datasets.zip
+MICS4,Latin America and Caribbean,Cuba,2010-2011,Completed,Final,Available,Cuba 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Cuba/2010-2011/Datasets/Cuba%202011%20MICS_Datasets.zip
+MICS4,West and Central Africa,Ghana (Accra),2010-2011,Completed,Final,Available,Ghana (Accra) 2010-11 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Ghana%20%28Accra%29/2010-2011/Datasets/Ghana%20%28Accra%29%202010-11%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Kazakhstan,2010-2011,Completed,Final,Available,Kazakhstan 2010-11 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Kazakhstan/2010-2011/Datasets/Kazakhstan%202010-11%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,Viet Nam,2010-2011,Completed,Final,Available,Viet Nam 2011 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Viet%20Nam/2010-2011/Datasets/Viet%20Nam%202011%20MICS_Datasets.zip
+MICS4,South Asia,Bhutan,2010,Completed,Final,Available,Bhutan 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/South%20Asia/Bhutan/2010/Datasets/Bhutan%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Central African Republic,2010,Completed,"Biomarker,Final,Summary",Available,Central African Republic 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Central%20African%20Republic/2010/Datasets/Central%20African%20Republic%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Chad,2010,Completed,"Final,Summary",Available,Chad 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Chad/2010/Datasets/Chad%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,"Congo, Democratic Republic of the",2010,Completed,"Final,Summary",Available,Congo DR 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Congo%2C%20Democratic%20Republic%20of%20the/2010/Datasets/Congo%20DR%202010%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,Eswatini,2010,Completed,Final,Available,Swaziland 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Eswatini/2010/Datasets/Swaziland%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Gambia,2010,Completed,Final,Available,The Gambia_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Gambia/2010/Datasets/The%20Gambia_MICS4_Datasets.zip
+MICS4,West and Central Africa,Guinea-Bissau,2010,Completed,Final,Available,Guinea Bissau_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Guinea-Bissau/2010/Datasets/Guinea%20Bissau_MICS4_Datasets.zip
+MICS4,East Asia and the Pacific,Mongolia,2010,Completed,Final,Available,Mongolia 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/East%20Asia%20and%20the%20Pacific/Mongolia/2010/Datasets/Mongolia%202010%20MICS_Datasets.zip
+MICS4,South Asia,Nepal (Mid- and Far-Western Regions),2010,Completed,Final,Available,Nepal (Mid and Far Western Regions) 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/South%20Asia/Nepal%20%28Mid-%20and%20Far-Western%20Regions%29/2010/Datasets/Nepal%20%28Mid%20and%20Far%20Western%20Regions%29%202010%20MICS_Datasets.zip
+MICS4,South Asia,Pakistan (Balochistan),2010,Completed,Final,Available,Pakistan (Balochistan) 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/South%20Asia/Pakistan%20%28Balochistan%29/2010/Datasets/Pakistan%20%28Balochistan%29%202010%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Serbia,2010,Completed,Final,Available,Serbia 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Serbia/2010/Datasets/Serbia%202010%20MICS_Datasets.zip
+MICS4,Europe and Central Asia,Serbia (Roma Settlements),2010,Completed,Final,Available,Serbia (Roma Settlements) 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Europe%20and%20Central%20Asia/Serbia%20%28Roma%20Settlements%29/2010/Datasets/Serbia%20%28Roma%20Settlements%29%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Sierra Leone,2010,Completed,Final,Available,Sierra Leone 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Sierra%20Leone/2010/Datasets/Sierra%20Leone%202010%20MICS_Datasets.zip
+MICS4,Eastern and Southern Africa,"South Sudan, Republic of",2010,Completed,Final,Available,South Sudan 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/South%20Sudan%2C%20Republic%20of/2010/Datasets/South%20Sudan%202010%20MICS_Datasets.zip
+MICS4,Middle East and North Africa,State of Palestine,2010,Completed,Final,Available,State of Palestine 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/State%20of%20Palestine/2010/Datasets/State%20of%20Palestine%202010%20MICS_Datasets.zip
+MICS4,Middle East and North Africa,Sudan,2010,Completed,"Final,Summary",Available,Sudan_2010_MICS4_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Middle%20East%20and%20North%20Africa/Sudan/2010/Datasets/Sudan_2010_MICS4_Datasets.zip
+MICS4,Latin America and Caribbean,Suriname,2010,Completed,Final,Available,Suriname 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Latin%20America%20and%20Caribbean/Suriname/2010/Datasets/Suriname%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Togo,2010,Completed,Final,Available,Togo 2010 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Togo/2010/Datasets/Togo%202010%20MICS_Datasets.zip
+MICS4,West and Central Africa,Mali,2009-2010,Completed,Final,Available,Mali 2009-10 MICS4 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/West%20and%20Central%20Africa/Mali/2009-2010/Datasets/Mali%202009-10%20MICS4%20Datasets.zip
+MICS3,East Asia and the Pacific,"Myanmar, Republic of the Union of",2009-2010,Completed,Final,Not available,,
+MICS4,Eastern and Southern Africa,Kenya (Mombasa Informal Settlements),2009,Completed,Final,Available,Kenya (Mombasa Informal Settlements) 2009 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS4/Eastern%20and%20Southern%20Africa/Kenya%20%28Mombasa%20Informal%20Settlements%29/2009/Datasets/Kenya%20%28Mombasa%20Informal%20Settlements%29%202009%20MICS_Datasets.zip
+MICS4,East Asia and the Pacific,"Korea, Democratic People's Republic of",2009,Completed,Final,Restricted,,
+MICS3,Eastern and Southern Africa,Zimbabwe,2009,Completed,Final,Available,Zimbabwe 2009 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Eastern%20and%20Southern%20Africa/Zimbabwe/2009/Datasets/Zimbabwe%202009%20MICS_Datasets.zip
+MICS3,Eastern and Southern Africa,Kenya (Eastern Province),2008,Completed,Final,Not available,,
+MICS3,Eastern and Southern Africa,Mozambique,2008,Completed,Final,Available,Mozambique 2008 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Eastern%20and%20Southern%20Africa/Mozambique/2008/Datasets/Mozambique%202008%20MICS_Datasets.zip
+MICS3,West and Central Africa,Ghana (District),2007-2008,Completed,Final,Not available,,
+MICS3,East Asia and the Pacific,Vanuatu,2007-2008,Completed,Final,Available,Vanuatu 2007 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/East%20Asia%20and%20the%20Pacific/Vanuatu/2007-2008/Datasets/Vanuatu%202007%20MICS_Datasets.zip
+MICS3,West and Central Africa,Mauritania,2007,Completed,Final,Available,Mauritania 2007 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Mauritania/2007/Datasets/Mauritania%202007%20MICS_Datasets.zip
+MICS3,West and Central Africa,Nigeria,2007,Completed,Final,Available,Nigeria 2007 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Nigeria/2007/Datasets/Nigeria%202007%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Guyana,2006-2007,Completed,Final,Available,Guyana 2006-07 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Guyana/2006-2007/Datasets/Guyana%202006-07%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Algeria,2006,Completed,Final,Not available,,
+MICS3,South Asia,Bangladesh,2006,Completed,Final,Available,Bangladesh 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/South%20Asia/Bangladesh/2006/Datasets/Bangladesh%202006%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Belize,2006,Completed,Final,Available,Belize 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Belize/2006/Datasets/Belize%202006%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Bosnia and Herzegovina,2006,Completed,Final,Available,Bosnia and Herzegovina 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Bosnia%20and%20Herzegovina/2006/Datasets/Bosnia%20and%20Herzegovina%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Burkina Faso,2006,Completed,Final,Available,Burkina Faso 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Burkina%20Faso/2006/Datasets/Burkina%20Faso%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Cameroon,2006,Completed,Final,Available,Cameroon 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Cameroon/2006/Datasets/Cameroon%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Central African Republic,2006,Completed,Final,Available,Central African Republic 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Central%20African%20Republic/2006/Datasets/Central%20African%20Republic%202006%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Cuba,2006,Completed,Final,Available,Cuba 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Cuba/2006/Datasets/Cuba%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Cﾃｴte d'Ivoire,2006,Completed,Final,Available,Cote d'Ivoire 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2006/Datasets/Cote%20d%27Ivoire%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Djibouti,2006,Completed,Final,Available,Djibouti 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Djibouti/2006/Datasets/Djibouti%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Ghana,2006,Completed,Final,Available,Ghana 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Ghana/2006/Datasets/Ghana%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Guinea-Bissau,2006,Completed,Final,Available,Guinea-Bissau 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Guinea-Bissau/2006/Datasets/Guinea-Bissau%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Iraq,2006,Completed,Final,Available,Iraq 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Iraq/2006/Datasets/Iraq%202006%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Kazakhstan,2006,Completed,Final,Available,Kazakhstan 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Kazakhstan/2006/Datasets/Kazakhstan%202006%20MICS_Datasets.zip
+MICS3,East Asia and the Pacific,Lao People's Democratic Republic,2006,Completed,Final,Available,Lao PDR 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/East%20Asia%20and%20the%20Pacific/Lao%20People%27s%20Democratic%20Republic/2006/Datasets/Lao%20PDR%202006%20MICS_Datasets.zip
+MICS3,Eastern and Southern Africa,Malawi,2006,Completed,Final,Available,Malawi 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Eastern%20and%20Southern%20Africa/Malawi/2006/Datasets/Malawi%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Sao Tome and Principe,2006,Completed,Final,Not available,,
+MICS3,Eastern and Southern Africa,Somalia,2006,Completed,Final,Available,Somalia 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Eastern%20and%20Southern%20Africa/Somalia/2006/Datasets/Somalia%202006%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Suriname,2006,Completed,Final,Available,Suriname 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Suriname/2006/Datasets/Suriname%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Syrian Arab Republic,2006,Completed,Final,Available,Syrian Arab Republic 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Syrian%20Arab%20Republic/2006/Datasets/Syrian%20Arab%20Republic%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2006,Completed,Final,Not available,,
+MICS3,West and Central Africa,Togo,2006,Completed,Final,Available,Togo 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Togo/2006/Datasets/Togo%202006%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Trinidad and Tobago,2006,Completed,Final,Available,Trinidad and Tobago 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Trinidad%20and%20Tobago/2006/Datasets/Trinidad%20and%20Tobago%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Tunisia,2006,Completed,Final,Not available,,
+MICS3,Europe and Central Asia,Turkmenistan,2006,Completed,Final,Available,Turkmenistan 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Turkmenistan/2006/Datasets/Turkmenistan%202006%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Uzbekistan,2006,Completed,Final,Available,Uzbekistan 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Uzbekistan/2006/Datasets/Uzbekistan%202006%20MICS_Datasets.zip
+MICS3,East Asia and the Pacific,Viet Nam,2006,Completed,Final,Available,Viet Nam 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/East%20Asia%20and%20the%20Pacific/Viet%20Nam/2006/Datasets/Viet%20Nam%202006%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Yemen,2006,Completed,Final,Available,Yemen 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Yemen/2006/Datasets/Yemen%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Gambia,2005-2006,Completed,Final,Available,Gambia 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Gambia/2005-2006/Datasets/Gambia%202005-06%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Kyrgyzstan,2005-2006,Completed,Final,Available,Kyrgyzstan 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Kyrgyzstan/2005-2006/Datasets/Kyrgyzstan%202005-06%20MICS_Datasets.zip
+MICS3,Middle East and North Africa,Lebanon (Palestinians),2005-2006,Completed,Final,Available,Lebanon (Palestinians) 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Lebanon%20%28Palestinians%29/2005-2006/Datasets/Lebanon%20%28Palestinians%29%202006%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Montenegro,2005-2006,Completed,Final,Available,Montenegro 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Montenegro/2005-2006/Datasets/Montenegro%202005-06%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,"North Macedonia, Republic of",2005-2006,Completed,Final,Available,Macedonia 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/North%20Macedonia%2C%20Republic%20of/2005-2006/Datasets/Macedonia%202005-06%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Serbia,2005-2006,Completed,Final,Available,Serbia 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Serbia/2005-2006/Datasets/Serbia%202005-06%20MICS_Datasets.zip
+MICS3,West and Central Africa,Sierra Leone,2005-2006,Completed,Final,Available,Sierra Leone 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Sierra%20Leone/2005-2006/Datasets/Sierra%20Leone%202005%20MICS_Datasets.zip
+MICS3,East Asia and the Pacific,Thailand,2005-2006,Completed,Final,Available,Thailand 2005-06 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/East%20Asia%20and%20the%20Pacific/Thailand/2005-2006/Datasets/Thailand%202005-06%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Albania,2005,Completed,Final,Available,Albania 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Albania/2005/Datasets/Albania%202005%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Belarus,2005,Completed,Final,Available,Belarus 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Belarus/2005/Datasets/Belarus%202005%20MICS_Datasets.zip
+MICS3,Eastern and Southern Africa,Burundi,2005,Completed,Final,Available,Burundi 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Eastern%20and%20Southern%20Africa/Burundi/2005/Datasets/Burundi%202005%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Georgia,2005,Completed,Final,Available,Georgia 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Georgia/2005/Datasets/Georgia%202005%20MICS_Datasets.zip
+MICS3,Latin America and Caribbean,Jamaica,2005,Completed,Final,Available,Jamaica 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Jamaica/2005/Datasets/Jamaica%202005%20MICS_Datasets.zip
+MICS3,East Asia and the Pacific,Mongolia,2005,Completed,Final,Available,Mongolia 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/East%20Asia%20and%20the%20Pacific/Mongolia/2005/Datasets/Mongolia%202005%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Tajikistan,2005,Completed,Final,Available,Tajikistan 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Tajikistan/2005/Datasets/Tajikistan%202005%20MICS_Datasets.zip
+MICS3,Europe and Central Asia,Ukraine,2005,Completed,Final,Available,Ukraine 2005 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Europe%20and%20Central%20Asia/Ukraine/2005/Datasets/Ukraine%202005%20MICS_Datasets.zip
+MICS2,South Asia,Afghanistan,2003,Completed,Final,Not available,,
+MICS2,Middle East and North Africa,Libya,2003,Completed,Preliminary,Not available,,
+MICS2,Eastern and Southern Africa,Angola,2001,Completed,Final,Available,Angola 2001 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Angola/2001/Datasets/Angola%202001%20MICS_Datasets.zip
+MICS2,West and Central Africa,"Congo, Democratic Republic of the",2001,Completed,Final,Available,"Congo, Democratic Republic of 2001 MICS_Datasets.zip",https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Congo%2C%20Democratic%20Republic%20of%20the/2001/Datasets/Congo%2C%20Democratic%20Republic%20of%202001%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Lebanon (Palestinians),2001,Completed,Final,Not available,,
+MICS2,South Asia,Maldives,2001,Completed,Final,Not available,,
+MICS2,South Asia,Afghanistan (Selected Regions of East),2000,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,Albania,2000,Completed,Final,Available,Albania 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Albania/2000/Datasets/Albania%202000%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Algeria,2000,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,Azerbaijan,2000,Completed,Final,Available,Azerbaijan 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Azerbaijan/2000/Datasets/Azerbaijan%202000%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Bahrain,2000,Completed,Not available,Not available,,
+MICS2,Latin America and Caribbean,"Bolivia, Plurinational State of",2000,Completed,Final,Available,Bolivia 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Bolivia%2C%20Plurinational%20State%20of/2000/Datasets/Bolivia%202000%20MICS_Datasets.zip
+MICS2,Europe and Central Asia,Bosnia and Herzegovina,2000,Completed,Final,Available,Bosnia and Herzegovina 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Bosnia%20and%20Herzegovina/2000/Datasets/Bosnia%20and%20Herzegovina%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Botswana,2000,Completed,Final,Available,Botswana 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Botswana/2000/Datasets/Botswana%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Burundi,2000,Completed,Final,Available,Burundi 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Burundi/2000/Datasets/Burundi%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Cameroon,2000,Completed,Final,Available,Cameroon 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Cameroon/2000/Datasets/Cameroon%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Central African Republic,2000,Completed,Final,Available,Central African Republic 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Central%20African%20Republic/2000/Datasets/Central%20African%20Republic%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Chad,2000,Completed,Final,Available,Chad 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Chad/2000/Datasets/Chad%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Comoros,2000,Completed,Final,Available,Comoros 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Comoros/2000/Datasets/Comoros%202000%20MICS_Datasets.zip
+MICS2,Latin America and Caribbean,Cuba,2000,Completed,Final,Not available,,
+MICS2,West and Central Africa,Cﾃｴte d'Ivoire,2000,Completed,Final,Available,Cote d'Ivoire 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2000/Datasets/Cote%20d%27Ivoire%202000%20MICS_Datasets.zip
+MICS2,Latin America and Caribbean,Dominican Republic,2000,Completed,Final,Available,Dominican Republic 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Dominican%20Republic/2000/Datasets/Dominican%20Republic%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Equatorial Guinea,2000,Completed,Final,Available,Equatorial Guinea 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Equatorial%20Guinea/2000/Datasets/Equatorial%20Guinea%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Eswatini,2000,Completed,Final,Available,Swaziland 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Eswatini/2000/Datasets/Swaziland%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Gambia,2000,Completed,Final,Available,Gambia 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Gambia/2000/Datasets/Gambia%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Guinea-Bissau,2000,Completed,Final,Available,Guinea Bissau 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Guinea-Bissau/2000/Datasets/Guinea%20Bissau%202000%20MICS_Datasets.zip
+MICS2,Latin America and Caribbean,Guyana,2000,Completed,Final,Available,Guyana 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Guyana/2000/Datasets/Guyana%202000%20MICS_Datasets.zip
+MICS2,South Asia,India,2000,Completed,Final,Not available,,
+MICS2,East Asia and the Pacific,Indonesia,2000,Completed,Final,Available,Indonesia MICS2 2000_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Indonesia/2000/Datasets/Indonesia%20MICS2%202000_Datasets.zip
+MICS2,Middle East and North Africa,Iraq,2000,Completed,Final,Available,Iraq 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Middle%20East%20and%20North%20Africa/Iraq/2000/Datasets/Iraq%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Kenya,2000,Completed,Preliminary,Available,Kenya 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Kenya/2000/Datasets/Kenya%202000%20MICS_Datasets.zip
+MICS2,East Asia and the Pacific,"Korea, Democratic People's Republic of",2000,Completed,Final,Restricted,,
+MICS2,East Asia and the Pacific,Lao People's Democratic Republic,2000,Completed,Final,Available,Lao PDR 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Lao%20People%27s%20Democratic%20Republic/2000/Datasets/Lao%20PDR%202000%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Lebanon,2000,Completed,Preliminary,Not available,,
+MICS2,Eastern and Southern Africa,Lesotho,2000,Completed,Final,Available,Lesotho 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Lesotho/2000/Datasets/Lesotho%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Madagascar,2000,Completed,Final,Available,Madagascar 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Madagascar/2000/Datasets/Madagascar%202000%20MICS_Datasets.zip
+MICS2,Europe and Central Asia,"Moldova, Republic of",2000,Completed,Final,Available,Moldova 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Moldova%2C%20Republic%20of/2000/Datasets/Moldova%202000%20MICS_Datasets.zip
+MICS2,East Asia and the Pacific,Mongolia,2000,Completed,Final,Available,Mongolia 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Mongolia/2000/Datasets/Mongolia%202000%20MICS_Datasets.zip
+MICS2,East Asia and the Pacific,"Myanmar, Republic of the Union of",2000,Completed,Final,Available,Myanmar 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Myanmar%2C%20Republic%20of%20the%20Union%20of/2000/Datasets/Myanmar%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Niger,2000,Completed,Final,Available,Niger 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Niger/2000/Datasets/Niger%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Rwanda,2000,Completed,Final,Available,Rwanda 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Rwanda/2000/Datasets/Rwanda%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Sao Tome and Principe,2000,Completed,Final,Available,Sao Tome and Principle 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Sao%20Tome%20and%20Principe/2000/Datasets/Sao%20Tome%20and%20Principle%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Senegal,2000,Completed,Final,Available,Senegal 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Senegal/2000/Datasets/Senegal%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Sierra Leone,2000,Completed,Final,Available,Sierra Leone 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Sierra%20Leone/2000/Datasets/Sierra%20Leone%202000%20MICS_Datasets.zip
+MICS2,Eastern and Southern Africa,Somalia,2000,Completed,Final,Not available,,
+MICS2,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),2000,Completed,Final,Not available,,
+MICS2,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",2000,Completed,Final,Available,Sudan 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Middle%20East%20and%20North%20Africa/Sudan%20%28including%20current%20South%20Sudan%2C%20Republic%20of%29/2000/Datasets/Sudan%202000%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Syrian Arab Republic,2000,Completed,Preliminary,Not available,,
+MICS2,Middle East and North Africa,Syrian Arab Republic (Palestinian Refugee Camps and Gatherings),2000,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,Tajikistan,2000,Completed,Final,Available,Tajikistan 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Tajikistan/2000/Datasets/Tajikistan%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Togo,2000,Completed,Final,Available,Togo 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Togo/2000/Datasets/Togo%202000%20MICS_Datasets.zip
+MICS2,Latin America and Caribbean,Trinidad and Tobago,2000,Completed,Final,Available,Trinidad and Tobago 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Trinidad%20and%20Tobago/2000/Datasets/Trinidad%20and%20Tobago%202000%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Tunisia,2000,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,Ukraine,2000,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,Uzbekistan,2000,Completed,Final,Available,Uzbekistan 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Europe%20and%20Central%20Asia/Uzbekistan/2000/Datasets/Uzbekistan%202000%20MICS_Datasets.zip
+MICS2,Latin America and Caribbean,"Venezuela, Bolivarian Republic of",2000,Completed,Final,Available,Venezuela 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Venezuela%2C%20Bolivarian%20Republic%20of/2000/Datasets/Venezuela%202000%20MICS_Datasets.zip
+MICS2,East Asia and the Pacific,Viet Nam,2000,Completed,Final,Available,Viet Nam 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Viet%20Nam/2000/Datasets/Viet%20Nam%202000%20MICS_Datasets.zip
+MICS2,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",2000,Completed,Final,Not available,,
+MICS2,Latin America and Caribbean,Suriname,1999-2000,Completed,Final,Available,Suriname 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Suriname/1999-2000/Datasets/Suriname%202000%20MICS_Datasets.zip
+MICS2,Europe and Central Asia,Georgia,1999,Completed,Final,Not available,,
+MICS2,West and Central Africa,Nigeria,1999,Completed,Final,Not available,,
+MICS2,Europe and Central Asia,"North Macedonia, Republic of",1999,Completed,Final,Not available,,
+MICS2,East Asia and the Pacific,Philippines,1999,Completed,Final,Available,Philippines 1999 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/East%20Asia%20and%20the%20Pacific/Philippines/1999/Datasets/Philippines%201999%20MICS_Datasets.zip
+MICS2,Middle East and North Africa,Sudan (South),1999,Completed,Final,Not available,,
+MICS2,Eastern and Southern Africa,Zambia,1999,Completed,Final,Available,Zambia 1999 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Zambia/1999/Datasets/Zambia%201999%20MICS_Datasets.zip
+MICS1,East Asia and the Pacific,"Korea, Democratic People's Republic of",1998,Completed,Final,Restricted,,
+MICS1,South Asia,Afghanistan,1997,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1997,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Somalia (Northeast Zone),1997,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Angola,1996,Completed,Final,Not available,,
+MICS1,Latin America and Caribbean,"Bolivia, Plurinational State of",1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Burkina Faso,1996,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Burundi,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Central African Republic,1996,Completed,Final,Not available,,
+MICS1,Europe and Central Asia,Croatia,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Cﾃｴte d'Ivoire,1996,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Egypt,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Gabon,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Gambia,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Guinea,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Guinea-Bissau,1996,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,Indonesia,1996,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Iraq,1996,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Kenya (20 of 56 districts),1996,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,Lao People's Democratic Republic,1996,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Lesotho,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Mali,1996,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,Mongolia,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Niger,1996,Completed,Final,Not available,,
+MICS1,Latin America and Caribbean,Panama,1996,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,Philippines,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Sao Tome and Principe,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Senegal,1996,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Somalia (Northwest Zone - Somaliland),1996,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,State of Palestine (West Bank and Gaza Strip),1996,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,"Tanzania, United Republic of",1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Togo,1996,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,Viet Nam,1996,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Yemen,1996,Completed,Summary,Not available,,
+MICS1,Europe and Central Asia,"Yugoslavia, The Federal Republic of (including current Serbia and Montenegro)",1996,Completed,Final,Not available,,
+MICS1,South Asia,Nepal (Six Cycles),1995-1997,Completed,Final,Not available,,
+MICS1,South Asia,India,1995-1996,Completed,Summary,Not available,,
+MICS1,West and Central Africa,Mauritania,1995-1996,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Algeria,1995,Completed,Final,Not available,,
+MICS1,South Asia,Bangladesh,1995,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,China,1995,Completed,Final,Not available,,
+MICS1,West and Central Africa,"Congo, Democratic Republic of the",1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Eswatini,1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Ethiopia,1995,Completed,Final,Not available,,
+MICS1,West and Central Africa,Ghana,1995,Completed,Summary,Not available,,
+MICS1,Middle East and North Africa,"Iran, Islamic Republic of",1995,Completed,Final,Not available,,
+MICS1,Europe and Central Asia,Kyrgyzstan,1995,Completed,Final,Not available,,
+MICS1,West and Central Africa,Liberia,1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Madagascar,1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Malawi,1995,Completed,Final,Not available,,
+MICS1,South Asia,Maldives,1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Mozambique,1995,Completed,Final,Not available,,
+MICS1,East Asia and the Pacific,"Myanmar, Republic of the Union of",1995,Completed,Final,Not available,,
+MICS1,West and Central Africa,Nigeria,1995,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Oman,1995,Completed,Final,Not available,,
+MICS1,South Asia,Pakistan,1995,Completed,Final,Not available,,
+MICS1,West and Central Africa,Sierra Leone,1995,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,"Sudan (including current South Sudan, Republic of)",1995,Completed,Final,Not available,,
+MICS1,Middle East and North Africa,Syrian Arab Republic,1995,Completed,Final,Not available,,
+MICS1,Europe and Central Asia,Turkey,1995,Completed,Preliminary,Not available,,
+MICS1,Europe and Central Asia,Turkmenistan,1995,Completed,Final,Not available,,
+MICS1,Eastern and Southern Africa,Zambia,1995,Completed,Final,Not available,,
+MICS1,South Asia,Bangladesh,1993,Completed,Final,Not available,,

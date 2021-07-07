@@ -29,17 +29,30 @@ artefacts:
 - data:
     description: MICS Datasets
     filenames:
+    - mics_datasets_raw/Guyana MICS6 Datasets.zip
+    - mics_datasets_raw/Kosovo (UNSCR 1244) MICS6 Datasets.zip
+    - mics_datasets_raw/Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities)
+      MICS6 Datasets.zip
+    - mics_datasets_raw/State of Palestine MICS6 Datasets.zip
     - mics_datasets_raw/Bangladesh MICS6 SPSS Datasets.zip
+    - mics_datasets_raw/Belarus MICS6 Datasets.zip
+    - mics_datasets_raw/Chad MICS6 Datasets.zip
+    - mics_datasets_raw/Cuba MICS6 Datasets.zip
+    - mics_datasets_raw/Nepal MICS6 Datasets.zip
+    - mics_datasets_raw/Sao Tome and Principe MICS6 Datasets.zip
     - mics_datasets_raw/Serbia MICS6 Datasets.zip
     - mics_datasets_raw/Serbia (Roma Settlements) MICS6 Datasets.zip
     - mics_datasets_raw/Thailand MICS6 Datasets.zip
     - mics_datasets_raw/Tonga MICS6 Datasets.zip
     - mics_datasets_raw/Turkmenistan MICS6 SPSS Datasets.zip
     - mics_datasets_raw/Zimbabwe MICS6 SPSS Datasets.zip
+    - mics_datasets_raw/Algeria MICS6 Datasets.zip
+    - mics_datasets_raw/Central African Republic MICS6 Datasets.zip
     - mics_datasets_raw/Guinea Bissau MICS6 Datasets.zip
     - mics_datasets_raw/Kiribati MICS6 Datasets.zip
     - mics_datasets_raw/Republic of North Macedonia MICS6 Datasets.zip
     - mics_datasets_raw/Republic of North Macedonia (Roma Settlements) MICS6 Datasets.zip
+    - mics_datasets_raw/Pakistan Sindh MICS6 Datasets.zip
     - mics_datasets_raw/Costa Rica MICS6 SPSS Datasets.zip
     - mics_datasets_raw/The-Gambia-MICS6-Datasets.zip
     - mics_datasets_raw/Georgia MICS6 SPSS Datasets.zip
@@ -61,7 +74,7 @@ artefacts:
     - mics_datasets_raw/Nigeria MICS5 Datasets.zip
     - mics_datasets_raw/Pakistan (Gilgit Baltistan)_MICS5_Datasets.zip
     - mics_datasets_raw/Pakistan_(Khyber_Pakhtunkhwa)_MICS5_Datasets.zip
-    - mics_datasets_raw/Côte d'Ivoire_MICS5_Datasets.zip
+    - mics_datasets_raw/Côte d'Ivoire_MICS5Datasets.zip
     - mics_datasets_raw/Guinea_MICS5_Datasets.zip
     - mics_datasets_raw/Mongolia (Khuvsgul Aimag)_MICS5_Datasets.zip
     - mics_datasets_raw/Mongolia (Nalaikh District)_MICS5_Datasets.zip
