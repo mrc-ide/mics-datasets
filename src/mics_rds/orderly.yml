@@ -2,7 +2,7 @@ script: script.R
 displayname: Save MICS datasets as RDS
 description: |
   This task (1) assigns a survey ID to every MICS survey, and (2) saves each of
-  the raw SPSS formatte datasets as an RDS file. The datasets are parsed using
+  the raw SPSS formatted datasets as an RDS file. The datasets are parsed using
   haven:read_sav(). All datasets from a single survey are saved as a list in the
   RDS. If the survey has a README .txt included, these are saved as a character
   vector in the list. Early MICS surveys disseminated the README as a MS Word
@@ -14,9 +14,30 @@ artefacts:
 - data:
     description: MICS datasets RDS
     filenames:
+    - mics_datasets_rds/guy2019mics.rds
+    - mics_datasets_rds/rks2019mics.rds
+    - mics_datasets_rds/rkr2019mics.rds
+    - mics_datasets_rds/pse2019mics.rds
     - mics_datasets_rds/bgd2019mics.rds
+    - mics_datasets_rds/blr2019mics.rds
+    - mics_datasets_rds/tcd2019mics.rds
+    - mics_datasets_rds/cub2019mics.rds
+    - mics_datasets_rds/npl2019mics.rds
+    - mics_datasets_rds/stp2019mics.rds
+    - mics_datasets_rds/srb2019mics.rds
+    - mics_datasets_rds/srr2019mics.rds
+    - mics_datasets_rds/tha2019mics.rds
+    - mics_datasets_rds/ton2019mics.rds
+    - mics_datasets_rds/tkm2019mics.rds
     - mics_datasets_rds/zwe2019mics.rds
+    - mics_datasets_rds/dza2018mics.rds
+    - mics_datasets_rds/caf2018mics.rds
+    - mics_datasets_rds/gnb2018mics.rds
     - mics_datasets_rds/kir2018mics.rds
+    - mics_datasets_rds/mkd2018mics.rds
+    - mics_datasets_rds/mkr2018mics.rds
+    - mics_datasets_rds/pas2018mics.rds
+    - mics_datasets_rds/cri2018mics.rds
     - mics_datasets_rds/gmb2018mics.rds
     - mics_datasets_rds/geo2018mics.rds
     - mics_datasets_rds/irq2018mics.rds
@@ -29,9 +50,11 @@ artefacts:
     - mics_datasets_rds/sur2018mics.rds
     - mics_datasets_rds/tun2018mics.rds
     - mics_datasets_rds/cod2017mics.rds
+    - mics_datasets_rds/gha2017mics.rds
     - mics_datasets_rds/pap2017mics.rds
     - mics_datasets_rds/lao2017mics.rds
     - mics_datasets_rds/sle2017mics.rds
+    - mics_datasets_rds/tgo2017mics.rds
     - mics_datasets_rds/nga2016mics.rds
     - mics_datasets_rds/pag2016mics.rds
     - mics_datasets_rds/pkk2016mics.rds
@@ -39,6 +62,7 @@ artefacts:
     - mics_datasets_rds/mnk2016mics.rds
     - mics_datasets_rds/mnn2016mics.rds
     - mics_datasets_rds/pry2016mics.rds
+    - mics_datasets_rds/tha2016mics.rds
     - mics_datasets_rds/blz2015mics.rds
     - mics_datasets_rds/sen2015mics.rds
     - mics_datasets_rds/tha2015mics.rds
@@ -237,12 +261,54 @@ depends:
     id: latest
     use:
       depends/mics_survey_catalogue_filenames.csv: mics_survey_catalogue_filenames.csv
+      depends/mics_datasets_raw/Guyana MICS6 Datasets.zip: mics_datasets_raw/Guyana
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Kosovo (UNSCR 1244) MICS6 Datasets.zip: mics_datasets_raw/Kosovo
+        (UNSCR 1244) MICS6 Datasets.zip
+      depends/mics_datasets_raw/Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip: mics_datasets_raw/Kosovo
+        (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip
+      depends/mics_datasets_raw/State of Palestine MICS6 Datasets.zip: mics_datasets_raw/State
+        of Palestine MICS6 Datasets.zip
       depends/mics_datasets_raw/Bangladesh MICS6 SPSS Datasets.zip: mics_datasets_raw/Bangladesh
+        MICS6 SPSS Datasets.zip
+      depends/mics_datasets_raw/Belarus MICS6 Datasets.zip: mics_datasets_raw/Belarus
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Chad MICS6 Datasets.zip: mics_datasets_raw/Chad MICS6
+        Datasets.zip
+      depends/mics_datasets_raw/Cuba MICS6 Datasets.zip: mics_datasets_raw/Cuba MICS6
+        Datasets.zip
+      depends/mics_datasets_raw/Nepal MICS6 Datasets.zip: mics_datasets_raw/Nepal
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Sao Tome and Principe MICS6 Datasets.zip: mics_datasets_raw/Sao
+        Tome and Principe MICS6 Datasets.zip
+      depends/mics_datasets_raw/Serbia MICS6 Datasets.zip: mics_datasets_raw/Serbia
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Serbia (Roma Settlements) MICS6 Datasets.zip: mics_datasets_raw/Serbia
+        (Roma Settlements) MICS6 Datasets.zip
+      depends/mics_datasets_raw/Thailand MICS6 Datasets.zip: mics_datasets_raw/Thailand
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Tonga MICS6 Datasets.zip: mics_datasets_raw/Tonga
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Turkmenistan MICS6 SPSS Datasets.zip: mics_datasets_raw/Turkmenistan
         MICS6 SPSS Datasets.zip
       depends/mics_datasets_raw/Zimbabwe MICS6 SPSS Datasets.zip: mics_datasets_raw/Zimbabwe
         MICS6 SPSS Datasets.zip
+      depends/mics_datasets_raw/Algeria MICS6 Datasets.zip: mics_datasets_raw/Algeria
+        MICS6 Datasets.zip
+      depends/mics_datasets_raw/Central African Republic MICS6 Datasets.zip: mics_datasets_raw/Central
+        African Republic MICS6 Datasets.zip
+      depends/mics_datasets_raw/Guinea Bissau MICS6 Datasets.zip: mics_datasets_raw/Guinea
+        Bissau MICS6 Datasets.zip
       depends/mics_datasets_raw/Kiribati MICS6 Datasets.zip: mics_datasets_raw/Kiribati
         MICS6 Datasets.zip
+      depends/mics_datasets_raw/Republic of North Macedonia MICS6 Datasets.zip: mics_datasets_raw/Republic
+        of North Macedonia MICS6 Datasets.zip
+      depends/mics_datasets_raw/Republic of North Macedonia (Roma Settlements) MICS6 Datasets.zip: mics_datasets_raw/Republic
+        of North Macedonia (Roma Settlements) MICS6 Datasets.zip
+      depends/mics_datasets_raw/Pakistan Sindh MICS6 Datasets.zip: mics_datasets_raw/Pakistan
+        Sindh MICS6 Datasets.zip
+      depends/mics_datasets_raw/Costa Rica MICS6 SPSS Datasets.zip: mics_datasets_raw/Costa
+        Rica MICS6 SPSS Datasets.zip
       depends/mics_datasets_raw/The-Gambia-MICS6-Datasets.zip: mics_datasets_raw/The-Gambia-MICS6-Datasets.zip
       depends/mics_datasets_raw/Georgia MICS6 SPSS Datasets.zip: mics_datasets_raw/Georgia
         MICS6 SPSS Datasets.zip
@@ -265,12 +331,16 @@ depends:
         MICS6 Datasets.zip
       depends/mics_datasets_raw/DRCongo MICS6 SPSS Datafiles.zip: mics_datasets_raw/DRCongo
         MICS6 SPSS Datafiles.zip
+      depends/mics_datasets_raw/Ghana MICS6 SPSS Datasets.zip: mics_datasets_raw/Ghana
+        MICS6 SPSS Datasets.zip
       depends/mics_datasets_raw/Pakistan Punjab MICS6 Datasets.zip: mics_datasets_raw/Pakistan
         Punjab MICS6 Datasets.zip
       depends/mics_datasets_raw/Lao PDR MICS6 Datasets.zip: mics_datasets_raw/Lao
         PDR MICS6 Datasets.zip
       depends/mics_datasets_raw/Sierra Leone MICS6 Datasets.zip: mics_datasets_raw/Sierra
         Leone MICS6 Datasets.zip
+      depends/mics_datasets_raw/Togo MICS6 SPSS Datasets.zip: mics_datasets_raw/Togo
+        MICS6 SPSS Datasets.zip
       depends/mics_datasets_raw/Nigeria MICS5 Datasets.zip: mics_datasets_raw/Nigeria
         MICS5 Datasets.zip
       depends/mics_datasets_raw/Pakistan (Gilgit Baltistan)_MICS5_Datasets.zip: mics_datasets_raw/Pakistan
@@ -282,6 +352,7 @@ depends:
       depends/mics_datasets_raw/Mongolia (Nalaikh District)_MICS5_Datasets.zip: mics_datasets_raw/Mongolia
         (Nalaikh District)_MICS5_Datasets.zip
       depends/mics_datasets_raw/Paraguay_MICS5_Datasets.zip: mics_datasets_raw/Paraguay_MICS5_Datasets.zip
+      depends/mics_datasets_raw/Thailand_14_Provinces_MICS5_Datasets.zip: mics_datasets_raw/Thailand_14_Provinces_MICS5_Datasets.zip
       depends/mics_datasets_raw/Belize_MICS5_Datasets.zip: mics_datasets_raw/Belize_MICS5_Datasets.zip
       depends/mics_datasets_raw/Senegal (Dakar)_MICS5_Datasets.zip: mics_datasets_raw/Senegal
         (Dakar)_MICS5_Datasets.zip
