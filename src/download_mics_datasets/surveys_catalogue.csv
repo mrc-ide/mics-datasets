@@ -1,49 +1,50 @@
 round,region,country,year,status,reports,datasets,filename,url
 MICS7,Europe and Central Asia,Kazakhstan,2023,Survey design,,,,
 MICS7,Europe and Central Asia,Azerbaijan,2022,Survey design,,,,
+MICS6,Eastern and Southern Africa,Comoros,2022,Survey design,,,,
+MICS6,East Asia and the Pacific,Federated States of Micronesia,2022,Survey design,,,,
+MICS6,Latin America and Caribbean,Jamaica,2022,Survey design,,,,
 MICS7,East Asia and the Pacific,Lao People's Democratic Republic,2022,Survey design,,,,
-MICS6,Middle East and North Africa,Lebanon,2022,Survey design,,,,
+MICS7,Middle East and North Africa,Lebanon,2022,Survey design,,,,
+MICS6,East Asia and the Pacific,Nauru,2022,Survey design,,,,
 MICS6,Latin America and Caribbean,Nicaragua,2022,Survey design,,,,
+MICS6,Middle East and North Africa,Qatar,2022,Survey design,,,,
 MICS6,Latin America and Caribbean,Saint Lucia,2022,Survey design,,,,
+MICS6,Middle East and North Africa,Sudan,2022,Survey design,,,,
 MICS7,East Asia and the Pacific,Thailand,2022,Survey design,,,,
-MICS6,West and Central Africa,Benin,2021,Survey design,,,,
-MICS6,Eastern and Southern Africa,Comoros,2021,Survey design,,,,
-MICS6,Eastern and Southern Africa,Eswatini,2021,Survey design,,,,
-MICS6,East Asia and the Pacific,Federated States of Micronesia,2021,Survey design,,,,
-MICS6,East Asia and the Pacific,Fiji,2021,Data processing / analysis,,,,
-MICS6,East Asia and the Pacific,Nauru,2021,Survey design,,,,
-MICS6,West and Central Africa,Nigeria,2021,Survey design,,,,
-MICS6,Middle East and North Africa,Qatar,2021,Survey Design,,,,
-MICS6,Middle East and North Africa,Sudan,2021,Survey design,,,,
-MICS6,Latin America and Caribbean,Trinidad and Tobago,2021,Survey design,,,,
-MICS6,Europe and Central Asia,Uzbekistan,2021,Data collection,,,,
-MICS6,East Asia and the Pacific,Vanuatu,2021,Survey design,,,,
-MICS6,Middle East and North Africa,Yemen,2021,Survey design,,,,
+MICS6,Latin America and Caribbean,Trinidad and Tobago,2022,Survey design,,,,
+MICS6,East Asia and the Pacific,Vanuatu,2022,Survey design,,,,
+MICS6,Middle East and North Africa,Yemen,2022,Survey design,,,,
+MICS6,Eastern and Southern Africa,Eswatini,2021-2022,Data collection,,,,
+MICS6,Europe and Central Asia,Uzbekistan,2021-2022,Data collection,,,,
+MICS6,West and Central Africa,Benin,2021,Data collection,,,,
+MICS6,East Asia and the Pacific,Fiji,2021,Completed,Preliminary report,Not yet available,,
+MICS6,West and Central Africa,Nigeria,2021,Data processing / analysis,,,,
 MICS6,South Asia,Pakistan (Azad Jammu and Kashmir),2020-2021,Data processing / analysis,,,,
-MICS6,East Asia and the Pacific,Viet Nam,2020-2021,Data processing / analysis,,,,
-MICS6,Latin America and Caribbean,Argentina,2019-2020,Data processing / analysis,,,,
+MICS6,East Asia and the Pacific,Viet Nam,2020-2021,Completed,"Key indicators,Snapshots",Not yet available,,
+MICS6,Latin America and Caribbean,Argentina,2019-2020,Completed,Survey findings,Available,Argentina MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Argentina/2019-2020/Datasets/Argentina%20MICS6%20Datasets.zip
 MICS6,Latin America and Caribbean,Guyana,2019-2020,Completed,,Available,Guyana MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Guyana/2019-2020/Datasets/Guyana%20MICS6%20Datasets.zip
 MICS6,Europe and Central Asia,Kosovo under UNSC res. 1244,2019-2020,Completed,"Snapshots,Survey findings",Available,Kosovo (UNSCR 1244) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244/2019-2020/Datasets/Kosovo%20%28UNSCR%201244%29%20MICS6%20Datasets.zip
 MICS6,Europe and Central Asia,"Kosovo under UNSC res. 1244 (Roma, Ashkali, and Egyptian Communities)",2019-2020,Completed,"Snapshots,Survey findings",Available,"Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip",https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Kosovo%20under%20UNSC%20res.%201244%20%28Roma%2C%20Ashkali%2C%20and%20Egyptian%20Communities%29/2019-2020/Datasets/Kosovo%20%28UNSCR%201244%29%20%28Roma%2C%20Ashkali%20and%20Egyptian%20Communities%29%20MICS6%20Datasets.zip
-MICS6,Eastern and Southern Africa,Malawi,2019-2020,Data processing / analysis,,,,
+MICS6,Eastern and Southern Africa,Malawi,2019-2020,Completed,"Snapshots,Survey findings",Available,Malawi MICS6 SPSS.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Eastern%20and%20Southern%20Africa/Malawi/2019-2020/Datasets/Malawi%20MICS6%20SPSS.zip
 MICS6,South Asia,Pakistan (Balochistan),2019-2020,Data processing / analysis,,,,
-MICS6,East Asia and the Pacific,Samoa,2019-2020,Completed,Preliminary report,Not yet available,,
+MICS6,East Asia and the Pacific,Samoa,2019-2020,Completed,"Preliminary report,Snapshots,Survey findings",Available,MICS6 Samoa Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Samoa/2019-2020/Datasets/MICS6%20Samoa%20Datasets.zip
 MICS6,Middle East and North Africa,State of Palestine,2019-2020,Completed,"Snapshots,Survey findings",Available,State of Palestine MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/State%20of%20Palestine/2019-2020/Datasets/State%20of%20Palestine%20MICS6%20Datasets.zip
-MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Data processing / analysis,,,,
-MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Data processing / analysis,,,,
+MICS6,Latin America and Caribbean,Turks and Caicos Islands,2019-2020,Completed,"Snapshots,Survey findings",Available,Turks and Caicos Islands MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Turks%20and%20Caicos%20Islands/2019-2020/Datasets/Turks%20and%20Caicos%20Islands%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,Tuvalu,2019-2020,Completed,"Snapshots,Survey findings",Available,Tuvalu MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Tuvalu/2019-2020/Datasets/Tuvalu%20MICS6%20Datasets.zip
 MICS6,South Asia,Bangladesh,2019,Completed,"Snapshots,Survey findings",Available,Bangladesh MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Bangladesh/2019/Datasets/Bangladesh%20MICS6%20SPSS%20Datasets.zip
 MICS6,Europe and Central Asia,Belarus,2019,Completed,"Snapshots,Survey findings",Available,Belarus MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Belarus/2019/Datasets/Belarus%20MICS6%20Datasets.zip
 MICS6,West and Central Africa,Chad,2019,Completed,Survey findings,Available,Chad MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Chad/2019/Datasets/Chad%20MICS6%20Datasets.zip
 MICS6,Latin America and Caribbean,Cuba,2019,Completed,Survey findings,Available,Cuba MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Cuba/2019/Datasets/Cuba%20MICS6%20Datasets.zip
-MICS6,Latin America and Caribbean,Dominican Republic,2019,Data processing / analysis,,,,
-MICS6,Latin America and Caribbean,Honduras,2019,Data processing / analysis,,,,
+MICS6,Latin America and Caribbean,Dominican Republic,2019,Completed,Snapshots and tables,Available,Dominican Republic MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Dominican%20Republic/2019/Datasets/Dominican%20Republic%20MICS6%20Datasets.zip
+MICS6,Latin America and Caribbean,Honduras,2019,Completed,"Snapshots,Survey findings",Available,Honduras MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Latin%20America%20and%20Caribbean/Honduras/2019/Datasets/Honduras%20MICS6%20Datasets.zip
 MICS6,South Asia,Nepal,2019,Completed,"Snapshots,Survey findings",Available,Nepal MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/South%20Asia/Nepal/2019/Datasets/Nepal%20MICS6%20Datasets.zip
-MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Data processing / analysis,,,,
-MICS6,West and Central Africa,Sao Tome and Principe,2019,Completed,Survey findings,Available,Sao Tome and Principe MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Sao%20Tome%20and%20Principe/2019/Datasets/Sao%20Tome%20and%20Principe%20MICS6%20Datasets.zip
+MICS6,South Asia,Pakistan (Khyber Pakhtunkhwa),2019,Completed,"Snapshots,Survey findings",Not yet available,,
+MICS6,West and Central Africa,Sao Tome and Principe,2019,Completed,"Snapshots,Survey findings",Available,Sao Tome and Principe MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/West%20and%20Central%20Africa/Sao%20Tome%20and%20Principe/2019/Datasets/Sao%20Tome%20and%20Principe%20MICS6%20Datasets.zip
 MICS6,Europe and Central Asia,Serbia,2019,Completed,"Snapshots,Survey findings",Available,Serbia MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Serbia/2019/Datasets/Serbia%20MICS6%20Datasets.zip
 MICS6,Europe and Central Asia,Serbia (Roma Settlements),2019,Completed,"Snapshots,Survey findings",Available,Serbia (Roma Settlements) MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Serbia%20%28Roma%20Settlements%29/2019/Datasets/Serbia%20%28Roma%20Settlements%29%20MICS6%20Datasets.zip
 MICS6,East Asia and the Pacific,Thailand,2019,Completed,"Key indicators,Snapshots,Survey findings",Available,Thailand MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Thailand/2019/Datasets/Thailand%20MICS6%20Datasets.zip
-MICS6,East Asia and the Pacific,Tonga,2019,Completed,"Preliminary,Snapshots,Survey findings",Available,Tonga MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Tonga/2019/Datasets/Tonga%20MICS6%20Datasets.zip
+MICS6,East Asia and the Pacific,Tonga,2019,Completed,"Preliminary,Snapshots,Survey Findings",Available,Tonga MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/East%20Asia%20and%20the%20Pacific/Tonga/2019/Datasets/Tonga%20MICS6%20Datasets.zip
 MICS6,Europe and Central Asia,Turkmenistan,2019,Completed,"Snapshots,Survey findings",Available,Turkmenistan MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Europe%20and%20Central%20Asia/Turkmenistan/2019/Datasets/Turkmenistan%20MICS6%20SPSS%20Datasets.zip
 MICS6,Eastern and Southern Africa,Zimbabwe,2019,Completed,"Snapshots,Survey findings",Available,Zimbabwe MICS6 SPSS Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Eastern%20and%20Southern%20Africa/Zimbabwe/2019/Datasets/Zimbabwe%20MICS6%20SPSS%20Datasets.zip
 MICS6,Middle East and North Africa,Algeria,2018-2019,Completed,"Snapshots,Survey findings",Available,Algeria MICS6 Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS6/Middle%20East%20and%20North%20Africa/Algeria/2018-2019/Datasets/Algeria%20MICS6%20Datasets.zip
@@ -200,7 +201,7 @@ MICS3,West and Central Africa,Burkina Faso,2006,Completed,Final,Available,Burkin
 MICS3,West and Central Africa,Cameroon,2006,Completed,Final,Available,Cameroon 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Cameroon/2006/Datasets/Cameroon%202006%20MICS_Datasets.zip
 MICS3,West and Central Africa,Central African Republic,2006,Completed,Final,Available,Central African Republic 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Central%20African%20Republic/2006/Datasets/Central%20African%20Republic%202006%20MICS_Datasets.zip
 MICS3,Latin America and Caribbean,Cuba,2006,Completed,Final,Available,Cuba 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Latin%20America%20and%20Caribbean/Cuba/2006/Datasets/Cuba%202006%20MICS_Datasets.zip
-MICS3,West and Central Africa,Cﾃｴte d'Ivoire,2006,Completed,Final,Available,Cote d'Ivoire 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2006/Datasets/Cote%20d%27Ivoire%202006%20MICS_Datasets.zip
+MICS3,West and Central Africa,Côte d'Ivoire,2006,Completed,Final,Available,Cote d'Ivoire 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2006/Datasets/Cote%20d%27Ivoire%202006%20MICS_Datasets.zip
 MICS3,Middle East and North Africa,Djibouti,2006,Completed,Final,Available,Djibouti 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/Middle%20East%20and%20North%20Africa/Djibouti/2006/Datasets/Djibouti%202006%20MICS_Datasets.zip
 MICS3,West and Central Africa,Ghana,2006,Completed,Final,Available,Ghana 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Ghana/2006/Datasets/Ghana%202006%20MICS_Datasets.zip
 MICS3,West and Central Africa,Guinea-Bissau,2006,Completed,Final,Available,Guinea-Bissau 2006 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS3/West%20and%20Central%20Africa/Guinea-Bissau/2006/Datasets/Guinea-Bissau%202006%20MICS_Datasets.zip
@@ -256,7 +257,7 @@ MICS2,West and Central Africa,Central African Republic,2000,Completed,Final,Avai
 MICS2,West and Central Africa,Chad,2000,Completed,Final,Available,Chad 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Chad/2000/Datasets/Chad%202000%20MICS_Datasets.zip
 MICS2,Eastern and Southern Africa,Comoros,2000,Completed,Final,Available,Comoros 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Comoros/2000/Datasets/Comoros%202000%20MICS_Datasets.zip
 MICS2,Latin America and Caribbean,Cuba,2000,Completed,Final,Not available,,
-MICS2,West and Central Africa,Cﾃｴte d'Ivoire,2000,Completed,Final,Available,Cote d'Ivoire 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2000/Datasets/Cote%20d%27Ivoire%202000%20MICS_Datasets.zip
+MICS2,West and Central Africa,Côte d'Ivoire,2000,Completed,Final,Available,Cote d'Ivoire 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/C%C3%B4te%20d%27Ivoire/2000/Datasets/Cote%20d%27Ivoire%202000%20MICS_Datasets.zip
 MICS2,Latin America and Caribbean,Dominican Republic,2000,Completed,Final,Available,Dominican Republic 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Latin%20America%20and%20Caribbean/Dominican%20Republic/2000/Datasets/Dominican%20Republic%202000%20MICS_Datasets.zip
 MICS2,West and Central Africa,Equatorial Guinea,2000,Completed,Final,Available,Equatorial Guinea 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/West%20and%20Central%20Africa/Equatorial%20Guinea/2000/Datasets/Equatorial%20Guinea%202000%20MICS_Datasets.zip
 MICS2,Eastern and Southern Africa,Eswatini,2000,Completed,Final,Available,Swaziland 2000 MICS_Datasets.zip,https://mics-surveys-prod.s3.amazonaws.com/MICS2/Eastern%20and%20Southern%20Africa/Eswatini/2000/Datasets/Swaziland%202000%20MICS_Datasets.zip
@@ -311,7 +312,7 @@ MICS1,West and Central Africa,Burkina Faso,1996,Completed,Final,Not available,,
 MICS1,Eastern and Southern Africa,Burundi,1996,Completed,Final,Not available,,
 MICS1,West and Central Africa,Central African Republic,1996,Completed,Final,Not available,,
 MICS1,Europe and Central Asia,Croatia,1996,Completed,Final,Not available,,
-MICS1,West and Central Africa,Cﾃｴte d'Ivoire,1996,Completed,Final,Not available,,
+MICS1,West and Central Africa,Côte d'Ivoire,1996,Completed,Final,Not available,,
 MICS1,Middle East and North Africa,Egypt,1996,Completed,Final,Not available,,
 MICS1,West and Central Africa,Gabon,1996,Completed,Final,Not available,,
 MICS1,West and Central Africa,Gambia,1996,Completed,Final,Not available,,

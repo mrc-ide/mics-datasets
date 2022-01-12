@@ -29,15 +29,22 @@ artefacts:
 - data:
     description: MICS Datasets
     filenames:
+    - mics_datasets_raw/Argentina MICS6 Datasets.zip
     - mics_datasets_raw/Guyana MICS6 Datasets.zip
     - mics_datasets_raw/Kosovo (UNSCR 1244) MICS6 Datasets.zip
     - mics_datasets_raw/Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities)
       MICS6 Datasets.zip
+    - mics_datasets_raw/Malawi MICS6 SPSS.zip
+    - mics_datasets_raw/MICS6 Samoa Datasets.zip
     - mics_datasets_raw/State of Palestine MICS6 Datasets.zip
+    - mics_datasets_raw/Turks and Caicos Islands MICS6 Datasets.zip
+    - mics_datasets_raw/Tuvalu MICS6 Datasets.zip
     - mics_datasets_raw/Bangladesh MICS6 SPSS Datasets.zip
     - mics_datasets_raw/Belarus MICS6 Datasets.zip
     - mics_datasets_raw/Chad MICS6 Datasets.zip
     - mics_datasets_raw/Cuba MICS6 Datasets.zip
+    - mics_datasets_raw/Dominican Republic MICS6 Datasets.zip
+    - mics_datasets_raw/Honduras MICS6 Datasets.zip
     - mics_datasets_raw/Nepal MICS6 Datasets.zip
     - mics_datasets_raw/Sao Tome and Principe MICS6 Datasets.zip
     - mics_datasets_raw/Serbia MICS6 Datasets.zip

@@ -14,14 +14,21 @@ artefacts:
 - data:
     description: MICS datasets RDS
     filenames:
+    - mics_datasets_rds/arg2019mics.rds
     - mics_datasets_rds/guy2019mics.rds
     - mics_datasets_rds/rks2019mics.rds
     - mics_datasets_rds/rkr2019mics.rds
+    - mics_datasets_rds/mwi2019mics.rds
+    - mics_datasets_rds/wsm2019mics.rds
     - mics_datasets_rds/pse2019mics.rds
+    - mics_datasets_rds/tca2019mics.rds
+    - mics_datasets_rds/tuv2019mics.rds
     - mics_datasets_rds/bgd2019mics.rds
     - mics_datasets_rds/blr2019mics.rds
     - mics_datasets_rds/tcd2019mics.rds
     - mics_datasets_rds/cub2019mics.rds
+    - mics_datasets_rds/dom2019mics.rds
+    - mics_datasets_rds/hnd2019mics.rds
     - mics_datasets_rds/npl2019mics.rds
     - mics_datasets_rds/stp2019mics.rds
     - mics_datasets_rds/srb2019mics.rds
@@ -261,14 +268,24 @@ depends:
     id: latest
     use:
       depends/mics_survey_catalogue_filenames.csv: mics_survey_catalogue_filenames.csv
+      depends/mics_datasets_raw/Argentina MICS6 Datasets.zip: mics_datasets_raw/Argentina
+        MICS6 Datasets.zip
       depends/mics_datasets_raw/Guyana MICS6 Datasets.zip: mics_datasets_raw/Guyana
         MICS6 Datasets.zip
       depends/mics_datasets_raw/Kosovo (UNSCR 1244) MICS6 Datasets.zip: mics_datasets_raw/Kosovo
         (UNSCR 1244) MICS6 Datasets.zip
       depends/mics_datasets_raw/Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip: mics_datasets_raw/Kosovo
         (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip
+      depends/mics_datasets_raw/Malawi MICS6 SPSS.zip: mics_datasets_raw/Malawi MICS6
+        SPSS.zip
+      depends/mics_datasets_raw/MICS6 Samoa Datasets.zip: mics_datasets_raw/MICS6
+        Samoa Datasets.zip
       depends/mics_datasets_raw/State of Palestine MICS6 Datasets.zip: mics_datasets_raw/State
         of Palestine MICS6 Datasets.zip
+      depends/mics_datasets_raw/Turks and Caicos Islands MICS6 Datasets.zip: mics_datasets_raw/Turks
+        and Caicos Islands MICS6 Datasets.zip
+      depends/mics_datasets_raw/Tuvalu MICS6 Datasets.zip: mics_datasets_raw/Tuvalu
+        MICS6 Datasets.zip
       depends/mics_datasets_raw/Bangladesh MICS6 SPSS Datasets.zip: mics_datasets_raw/Bangladesh
         MICS6 SPSS Datasets.zip
       depends/mics_datasets_raw/Belarus MICS6 Datasets.zip: mics_datasets_raw/Belarus
@@ -277,6 +294,10 @@ depends:
         Datasets.zip
       depends/mics_datasets_raw/Cuba MICS6 Datasets.zip: mics_datasets_raw/Cuba MICS6
         Datasets.zip
+      depends/mics_datasets_raw/Dominican Republic MICS6 Datasets.zip: mics_datasets_raw/Dominican
+        Republic MICS6 Datasets.zip
+      depends/mics_datasets_raw/Honduras MICS6 Datasets.zip: mics_datasets_raw/Honduras
+        MICS6 Datasets.zip
       depends/mics_datasets_raw/Nepal MICS6 Datasets.zip: mics_datasets_raw/Nepal
         MICS6 Datasets.zip
       depends/mics_datasets_raw/Sao Tome and Principe MICS6 Datasets.zip: mics_datasets_raw/Sao
