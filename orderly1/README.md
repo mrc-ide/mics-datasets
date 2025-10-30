@@ -42,6 +42,8 @@ This exists as a separate task from `save_raw_mics` so that errors or
 adjustments to the parsed RDS files can be fixed without re-downloading all raw
 files.
 
+The files can be downloaded from the orderly2 Sharepoint remote.
+
 ## Creating or updating the archive
 
 Creating the archive requires the `orderly2` package:
