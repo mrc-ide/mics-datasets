@@ -192,6 +192,7 @@ save_rds <- function(path_zip, rds_path) {
   saveRDS(res, rds_path)
 }
 
+## Temporarily drop files with non-ASCII name (CIV MICS5)
 raw_paths <- file.path(tempdir(), clean_survey_df$Name)
 has_nonascii <- raw_paths %in% tools::showNonASCII(raw_paths)
 
