@@ -17,3 +17,5 @@ orderly_envir.yml
 .Rhistory
 .Rdata
 .Rproj.user
+.DS_Store
+/orderly2/src/save_raw_mics/raw
