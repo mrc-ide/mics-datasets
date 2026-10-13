@@ -1,8 +1,69 @@
+library(orderly)
+library(dplyr)
+library(stringr)
+library(countrycode)
+library(readr)
+
 orderly_strict_mode()
 orderly_dependency("save_raw_mics", "latest", "raw/2025-10-30_mics_raw.zip")
 orderly_resource("mics_surveys_catalogue.csv")
 
 dir.create("artefacts")
+
+#' Extract a zip whose entry names may not be valid UTF-8.
+#'
+#' Some MICS zips are built on Windows and store their entry names in the DOS
+#' OEM code page with the UTF-8 flag unset. Cote d'Ivoire MICS5 is the only one
+#' in this collection: its members are "C<93>te d'Ivoire 2016 SPSS
+#' Datasets/wm.sav" etc., where 0x93 is o-circumflex in CP850 and is not valid
+#' UTF-8. macOS (APFS) refuses to create a filename that is not valid UTF-8, so
+#' BOTH R's internal unzip and the system unzip fail on the whole archive:
+#' "error -1 in extracting from zip file" and "Illegal byte sequence" (exit 50)
+#' respectively. The survey was previously dropped for this reason.
+#'
+#' The archive itself is fine -- plain deflate, not encrypted, not zip64 -- and
+#' unz() reads any member regardless of how its name is encoded. So read each
+#' member through a connection and write it out under a transliterated name,
+#' instead of asking the filesystem to reproduce the original bytes.
+#'
+#' Archives whose names are all valid UTF-8 take the ordinary unzip() path, so
+#' this changes nothing for the other 245 surveys: verified byte-identical
+#' output on an ASCII-named survey.
+unzip_safe <- function(path_zip, exdir) {
+
+  entries <- unzip(path_zip, list = TRUE)
+  if (all(validUTF8(entries$Name)))
+    return(unzip(path_zip, exdir = exdir))
+
+  ## useBytes, or grepl() warns "input string is invalid UTF-8" and returns NA
+  ## for exactly the entries this function exists to handle -- which then
+  ## subsets to NA and fails later with "cannot open the connection".
+  nm <- entries$Name[!grepl("/$", entries$Name, useBytes = TRUE)]
+
+  safe <- vapply(nm, function(x) {
+    if (validUTF8(x)) return(x)
+    for (enc in c("CP850", "CP437", "latin1")) {
+      y <- iconv(x, enc, "UTF-8")
+      if (!is.na(y)) return(y)
+    }
+    iconv(x, "UTF-8", "UTF-8", sub = "_")
+  }, character(1), USE.NAMES = FALSE)
+
+  dest <- file.path(exdir, safe)
+  for (i in seq_along(nm)) {
+    dir.create(dirname(dest[i]), recursive = TRUE, showWarnings = FALSE)
+    con <- unz(path_zip, nm[i], open = "rb")
+    out <- file(dest[i], open = "wb")
+    repeat {
+      buf <- readBin(con, "raw", 1048576L)
+      if (!length(buf)) break
+      writeBin(buf, out)
+    }
+    close(con)
+    close(out)
+  }
+  dest
+}
 
 unzip("raw/2025-10-30_mics_raw.zip", exdir = tempdir())
 
@@ -31,10 +92,10 @@ custom_matches <- c("Eswatini" = "SWZ",
                     "Sudan (South)" = "SSD")
 
 subnational_matches <- c(
-                    
+                    ##
                     ## For subnational MICS, assign a custom location prefix different from the ISO3.
                     ## Check that this does not conflict with any ISO3.
-                    
+                    ##
                     "Bosnia and Herzegovina (Roma Settlements)" = "BIR",
                     "Serbia (Roma Settlements)" = "SRR",
                     "Republic of North Macedonia (Roma Settlements)" = "MKR",
@@ -71,7 +132,7 @@ subnational_matches <- c(
                     "Senegal (Dakar)" = "SED",
                     "Thailand (Bangkok Small Community)" = "THB",
                     "Thailand Bangkok" = "THB"
-                    
+                    ##
                     )
 
 iso3_clash <- intersect(subnational_matches, countrycode::codelist$iso3c)
@@ -123,16 +184,20 @@ surv_round_year <- surv_df %>%
   filter(is.na(year)) %>%
   select(-year) %>%
   mutate(idx = row_number()) %>%
-  left_join(survey_catalogue %>% select(round, year, iso3) %>% distinct()) %>%
+  left_join(
+    survey_catalogue %>%
+      select(round, year, iso3) %>%
+      distinct(),
+  ) %>%
   group_by(idx) %>%
   filter(n() == 1) %>%
   ungroup() %>%
   mutate(year = str_sub(year, 1,4)) %>%
-  type.convert(as.is = T)
+  type.convert(as.is = TRUE)
 
 surv_df <- surv_df %>%
   filter(!is.na(year)) %>%
-  type.convert(as.is = T) %>%
+  type.convert(as.is = TRUE) %>%
   bind_rows(surv_round_year)
 
 surv_df <- surv_df %>%
@@ -155,7 +220,7 @@ if(nrow(clean_survey_df %>%
 num_txt_files <- file.path(tempdir(), clean_survey_df$Name) %>%
   lapply(unzip, list = T) %>%
   lapply("[[", "Name") %>%
-  lapply(grep, pattern = "\\.txt$") %>%
+  lapply(grep, pattern = "\\.txt$", useBytes = TRUE) %>%
   lengths()
 
 table(num_txt_files)
@@ -171,9 +236,9 @@ save_rds <- function(path_zip, rds_path) {
   ## extract contents and read in .savs
   tf <- tempfile()
   
-  files <- unzip(path_zip, exdir = tf)
+  files <- unzip_safe(path_zip, tf)
   if(length(files) == 1 && grepl("\\.zip$", files))
-    files <- unzip(files, exdir = tf)
+    files <- unzip_safe(files, tf)
   
   sav_files <- grep("\\.sav$", files, value = TRUE)
   file_type <- gsub("^(.*)\\.sav$", "\\1", basename(sav_files))
@@ -192,14 +257,16 @@ save_rds <- function(path_zip, rds_path) {
   saveRDS(res, rds_path)
 }
 
-## Temporarily drop files with non-ASCII name (CIV MICS5)
 raw_paths <- file.path(tempdir(), clean_survey_df$Name)
-has_nonascii <- raw_paths %in% tools::showNonASCII(raw_paths)
-
 rds_paths <- file.path("artefacts", paste0(clean_survey_df$survey_id, ".rds"))
 
-raw_paths <- raw_paths[!has_nonascii]
-rds_paths <- rds_paths[!has_nonascii]
+## Every catalogued survey converts. Nothing is dropped here: a survey that
+## cannot be read should fail loudly rather than go missing from the artefact
+## list, because a packet that is one survey short looks exactly like a packet
+## that is complete.
+stopifnot(length(raw_paths) == nrow(clean_survey_df),
+          !anyDuplicated(rds_paths),
+          all(file.exists(raw_paths)))
 
 orderly_artefact(files = rds_paths)
 
