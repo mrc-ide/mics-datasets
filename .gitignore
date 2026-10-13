@@ -1,21 +1,7 @@
-# These are directories where orderly stores (potentially large)
-# generated files - you definitely do not want these in git.
-data
-archive
-draft
-
-# Orderly will store data in a sqlite database, by default orderly.sqlite
-*.sqlite
-
-# It is suggested to use environment variables, in either
-# orderly_envir.yml or .Renviron to store sensitive data to use with
-# orderly - keep those out of git
-.Renviron
+# ---VVV--- added by orderly ---VVV----------------
+# Don't manually edit content between these markers
+.outpack
 orderly_envir.yml
-
-# Other good things to exclude
-.Rhistory
-.Rdata
-.Rproj.user
-.DS_Store
-/orderly2/src/save_raw_mics/raw
+draft
+archive
+# ---^^^--- added by orderly ---^^^----------------
