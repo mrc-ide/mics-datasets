@@ -58,6 +58,20 @@ The csv is still required by the mics_rds script, and can be updated by download
 
 TODO: Add GIS datasets into this workflow
 
+#### Remote archive
+
+The remote archive is located on Imperial College Box storage at location:
+`HIV Inference Group/Data/household surveys/MICS/orderly2`
+Sync the archive folder via Box and access via:
+
+```r
+archive_path <- "/path/to/Box sync/HIV Inference Group/Data/household surveys/MICS/orderly2"
+
+orderly::orderly_location_add_path(name = "mics-box-archive", path = archive_path)
+orderly::orderly_location_fetch_metadata(location = "mics-box-archive")
+orderly::orderly_location_pull(expr = "latest", name = "mics_rds", location = "mics-box-archive")
+```
+
 ## Audit trail
 
 The task `src/download_mics_datasets/` is obsolete. Previous version 
