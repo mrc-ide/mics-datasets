@@ -57,3 +57,9 @@ This removes the previous requirement to manually update the surveys catalogue c
 The csv is still required by the mics_rds script, and can be updated by download from https://mics.unicef.org/surveys
 
 TODO: Add GIS datasets into this workflow
+
+## Audit trail
+
+The task `src/download_mics_datasets/` is obsolete. Previous version 
+of the workflow used that task for automated download of the raw 
+datasets. Changes to the MICS website have disabled that.
